@@ -1,5 +1,7 @@
 # Wealth Bear Token List
 ## Overview
+<p><img src="https://wealthbear.app/assets/img/github-header.png"></p>
+
 The Wealth Bear Token List is a list of Binance Smart Chain tokens that are available in the Wealth Bear Wallet app.
 
 ## How to add your token
