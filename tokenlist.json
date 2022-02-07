@@ -310,7 +310,7 @@
     },
     {
       "name": "Coco Token",
-      "symbol": "$COCO",
+      "symbol": "COCO",
       "contract_address": "0x053299b35bfFD54E7620762CDdE9B9A3494662F3",
       "decimals": 18,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x053299b35bfFD54E7620762CDdE9B9A3494662F3/logo.png"
@@ -324,7 +324,7 @@
     },
     {
       "name": "SafeDancer",
-      "symbol": "$DANCE",
+      "symbol": "DANCE",
       "contract_address": "0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4",
       "decimals": 18,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4/logo.png"
@@ -1584,7 +1584,7 @@
     },
     {
       "name": "World Stream",
-      "symbol": "$tream",
+      "symbol": "tream",
       "contract_address": "0x1C2425F50a1e98D5631b223E56760d21BC840C53",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x1C2425F50a1e98D5631b223E56760d21BC840C53/logo.png"
@@ -2458,7 +2458,7 @@
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x2A3E1D095F2902C9B6Da1bFF7813a7B2fc65C3dA/logo.png"
     },
     {
-      "name": "$ElonGate",
+      "name": "ElonGate",
       "symbol": "ELG",
       "contract_address": "0x2A9718defF471f3Bb91FA0ECEAB14154F150a385",
       "decimals": 9,
@@ -2920,7 +2920,7 @@
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x31D0a7AdA4d4c131Eb612DB48861211F63e57610/logo.png"
     },
     {
-      "name": "$PORN",
+      "name": "PORN",
       "symbol": "PORN",
       "contract_address": "0x31b9773f225408129a90788EF013Bd449e283865",
       "decimals": 9,
@@ -3957,7 +3957,7 @@
     },
     {
       "name": "DRIVENprotocol",
-      "symbol": "$DVP",
+      "symbol": "DVP",
       "contract_address": "0x43bFf6EAB0903cD0DA8D7c57C25e17314E51da54",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x43bFf6EAB0903cD0DA8D7c57C25e17314E51da54/logo.png"
@@ -4216,7 +4216,7 @@
     },
     {
       "name": "MINIKISHU",
-      "symbol": "$MINIKISHU",
+      "symbol": "MINIKISHU",
       "contract_address": "0x47fD00664661058546fdDaDA3eecc9f2CD41020e",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x47fD00664661058546fdDaDA3eecc9f2CD41020e/logo.png"
@@ -4328,7 +4328,7 @@
     },
     {
       "name": "MADAGASCAR",
-      "symbol": "$TIME",
+      "symbol": "TIME",
       "contract_address": "0x4AAd6A01068c2621545d087A3c5281837112585b",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x4AAd6A01068c2621545d087A3c5281837112585b/logo.png"
@@ -4349,7 +4349,7 @@
     },
     {
       "name": "Coin Discovery Token",
-      "symbol": "$CODI",
+      "symbol": "CODI",
       "contract_address": "0x4AC32178097c1f62beadCC2D215B54D6915013ee",
       "decimals": 18,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x4AC32178097c1f62beadCC2D215B54D6915013ee/logo.png"
@@ -5182,7 +5182,7 @@
     },
     {
       "name": "GREED",
-      "symbol": "$GREED",
+      "symbol": "GREED",
       "contract_address": "0x5905df3D03E29a22e22462D3257E6AC731E22C15",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x5905df3D03E29a22e22462D3257E6AC731E22C15/logo.png"
@@ -5350,7 +5350,7 @@
     },
     {
       "name": "Baby Doge Inu",
-      "symbol": "$BABYDOGEINU",
+      "symbol": "BABYDOGEINU",
       "contract_address": "0x5E5C9001Aa81332D405D993FFd1468751D659d1e",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x5E5C9001Aa81332D405D993FFd1468751D659d1e/logo.png"
@@ -5714,7 +5714,7 @@
     },
     {
       "name": "SUPERDOGE",
-      "symbol": "$SUPDOG",
+      "symbol": "SUPDOG",
       "contract_address": "0x622A1297057ea233287ce77bdBF2AB4E63609F23",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x622A1297057ea233287ce77bdBF2AB4E63609F23/logo.png"
@@ -7506,7 +7506,7 @@
     },
     {
       "name": "SCORPION",
-      "symbol": "$SCORP",
+      "symbol": "SCORP",
       "contract_address": "0x84750e8EfacC62be5AFe7221Cf149A2520Cb1b60",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x84750e8EfacC62be5AFe7221Cf149A2520Cb1b60/logo.png"
@@ -7828,7 +7828,7 @@
     },
     {
       "name": "DUI",
-      "symbol": "$DUI",
+      "symbol": "DUI",
       "contract_address": "0x8943b6d1677a4Addbe5Aa58f429e11E856746Fba",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x8943b6d1677a4Addbe5Aa58f429e11E856746Fba/logo.png"
@@ -7863,7 +7863,7 @@
     },
     {
       "name": "MARGIN CALL TOKEN",
-      "symbol": "$MC",
+      "symbol": "MC",
       "contract_address": "0x899dCdE4f486816aFae42442D4b1b6a7C6fE9c63",
       "decimals": 8,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x899dCdE4f486816aFae42442D4b1b6a7C6fE9c63/logo.png"
@@ -7953,7 +7953,7 @@
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x8E984e03ab35795C60242c902ECe2450242C90e9/logo.png"
     },
     {
-      "name": "Fuck$ Finance v2.0",
+      "name": "Fuck Finance v2.0",
       "symbol": "FFS2",
       "contract_address": "0x8EbcA1ac949067ED8784FF9D07e4d084a3D82636",
       "decimals": 9,
@@ -8318,7 +8318,7 @@
     },
     {
       "name": "Weentar",
-      "symbol": "$WNTR",
+      "symbol": "WNTR",
       "contract_address": "0x93f63d9455685621aBd73E63cC04f7e454270A66",
       "decimals": 18,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x93f63d9455685621aBd73E63cC04f7e454270A66/logo.png"
@@ -8457,8 +8457,8 @@
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x9628542656482DdeE1989b04133f02A799eB0936/logo.png"
     },
     {
-      "name": "Rhyme$ick Coin",
-      "symbol": "R$C",
+      "name": "Rhymeick Coin",
+      "symbol": "RC",
       "contract_address": "0x9641C1eee00471f7dA822167F6CF77202356179a",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x9641C1eee00471f7dA822167F6CF77202356179a/logo.png"
@@ -8759,7 +8759,7 @@
     },
     {
       "name": "867",
-      "symbol": "$867",
+      "symbol": "867",
       "contract_address": "0x9CEFd9588f076c5f805341864adC8a6F077A5b99",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0x9CEFd9588f076c5f805341864adC8a6F077A5b99/logo.png"
@@ -9634,7 +9634,7 @@
     },
     {
       "name": "BossDog",
-      "symbol": "$BOSSDOG",
+      "symbol": "BOSSDOG",
       "contract_address": "0xB05513809549b8654fA1228b123A36c78a3356F4",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xB05513809549b8654fA1228b123A36c78a3356F4/logo.png"
@@ -11439,8 +11439,8 @@
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e/logo.png"
     },
     {
-      "name": "$MLNX",
-      "symbol": "$MLNX",
+      "name": "MLNX",
+      "symbol": "MLNX",
       "contract_address": "0xF28709f1daa6CEE2847C5B9526ceba457331742b",
       "decimals": 18,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xF28709f1daa6CEE2847C5B9526ceba457331742b/logo.png"
@@ -11706,7 +11706,7 @@
     },
     {
       "name": "Cardence",
-      "symbol": "$CRDN",
+      "symbol": "CRDN",
       "contract_address": "0xFa17b330bCC4e7F3E2456996d89A5a54AB044831",
       "decimals": 18,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xFa17b330bCC4e7F3E2456996d89A5a54AB044831/logo.png"
@@ -12049,7 +12049,7 @@
     },
     {
       "name": "ShibX",
-      "symbol": "$ShibX",
+      "symbol": "ShibX",
       "contract_address": "0xaA357b0F167923Efc1D6978a868f81866cA6E98c",
       "decimals": 4,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xaA357b0F167923Efc1D6978a868f81866cA6E98c/logo.png"
@@ -12098,7 +12098,7 @@
     },
     {
       "name": "Memeflate",
-      "symbol": "$MFLATE",
+      "symbol": "MFLATE",
       "contract_address": "0xaFE3321309A994831884fc1725F4c3236AC79f76",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xaFE3321309A994831884fc1725F4c3236AC79f76/logo.png"
@@ -12196,7 +12196,7 @@
     },
     {
       "name": "PIZZANFT",
-      "symbol": "$PIZZA",
+      "symbol": "PIZZA",
       "contract_address": "0xb07905396A419B121213efe1d17cfD0ff20aE597",
       "decimals": 18,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xb07905396A419B121213efe1d17cfD0ff20aE597/logo.png"
@@ -12427,7 +12427,7 @@
     },
     {
       "name": "Stonks Token",
-      "symbol": "$STONKS",
+      "symbol": "STONKS",
       "contract_address": "0xb966150c7a0150eD4ea979e04F18d109301AAb95",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xb966150c7a0150eD4ea979e04F18d109301AAb95/logo.png"
@@ -12601,7 +12601,7 @@
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd/logo.png"
     },
     {
-      "name": "$SpaceSharks",
+      "name": "SpaceSharks",
       "symbol": "SPACESHARKS",
       "contract_address": "0xbdfB7A9e5A74cD722A9691570108CAaacB17674A",
       "decimals": 18,
@@ -13085,7 +13085,7 @@
     },
     {
       "name": "Big Oily Orange Boob",
-      "symbol": "$BOOB",
+      "symbol": "BOOB",
       "contract_address": "0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A/logo.png"
@@ -13211,7 +13211,7 @@
     },
     {
       "name": "Elonomics",
-      "symbol": "$ELONOM",
+      "symbol": "ELONOM",
       "contract_address": "0xd3ecC6a4ce1a9fAEC1AA5E30B55f8a1a4b84F938",
       "decimals": 4,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xd3ecC6a4ce1a9fAEC1AA5E30B55f8a1a4b84F938/logo.png"
@@ -13435,14 +13435,14 @@
     },
     {
       "name": "CHEEMSINU",
-      "symbol": "$CINU",
+      "symbol": "CINU",
       "contract_address": "0xdFE6891ce8E5a5c7Cf54fFdE406A6C2C54145F71",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xdFE6891ce8E5a5c7Cf54fFdE406A6C2C54145F71/logo.png"
     },
     {
       "name": "HONEYPAD",
-      "symbol": "$HONEY",
+      "symbol": "HONEY",
       "contract_address": "0xdb607c61Aaa2a954Bf1f9d117953F12d6c319E15",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xdb607c61Aaa2a954Bf1f9d117953F12d6c319E15/logo.png"
