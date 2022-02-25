@@ -1,6 +1,13 @@
 {
   "tokens": [
      {
+      "name": "Baby Catcoin",
+      "symbol": "BABYCATS",
+      "contract_address": "0x1bd5ddcd740f2d13b2255fc325c02509da35c4e4",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23959/small/1F7D09EB-6E0E-4AD3-9CF8-128D2A8C2C7F.png?1645787565"
+    },
+     {
       "name": "CATCOIN",
       "symbol": "CAT",
       "contract_address": "0x2ca7d8566ba9ff99acfc871930e7bc25cd154b52",
