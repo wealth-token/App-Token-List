@@ -1,6 +1,83 @@
 {
   "tokens": [
     {
+      "name": "Wrapped Syscoin",
+      "symbol": "WSYS",
+      "contract_address": "0x747b1223b23e53070c54df355fac2e198aa54708",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23916/small/xDiIFaKO_400x400.jpg?1645684034"
+    },
+    {
+      "name": "WSB.sh",
+      "symbol": "WSBT",
+      "contract_address": "0x7f4e04aa61b9a46403c1634e91bf31df3bc554cf",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23920/small/_SjqfFvj_400x400.png?1645686742"
+    },
+    {
+      "name": "Quoth",
+      "symbol": "QUOTH",
+      "contract_address": "0xb025bc1675f6be04ec528574712f268d99db494d",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23922/small/1psvgf0.jpeg?1645688693"
+    },
+    {
+      "name": "EarnGuild",
+      "symbol": "EARN",
+      "contract_address": "0xb0eb3e295b44d7d405ba8026a9734a9ab354a8b2",
+      "decimals": 8,
+      "logo_url": "https://assets.coingecko.com/coins/images/23923/small/Earn-Guild-Helmet-200x200-Transparent.png?1645688827"
+    },
+    {
+      "name": "TNNS",
+      "symbol": "TNNS",
+      "contract_address": "0x6c7c87d9868b1db5a0f62d867baa90e0adfa7cfd",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23926/small/output-onlinepngtools.png?1645689924"
+    },
+    {
+      "name": "PiratesKing",
+      "symbol": "PKT",
+      "contract_address": "0x4cbd8adcd7eca7d1b71adbbf484f1e8014681a9d",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23930/small/C20D7CC4-7282-4BDE-9AE3-08F6705CCBBB.png?1645708312"
+    },
+    {
+      "name": "Galaxy Doge",
+      "symbol": "GALAXYDOGE",
+      "contract_address": "0x02b69bb65a300de06099b9d025ea4badff7f1a88",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23933/small/1DCA5DD9-844F-4AE9-811A-A64266FBCFB5.png?1645711832"
+    },
+    {
+      "name": "HALO Network",
+      "symbol": "HO",
+      "contract_address": "0x41515885251e724233c6ca94530d6dcf3a20dec7",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/17407/small/HALO_logo.png?1627541114"
+    },
+    {
+      "name": "Santa Floki v2.0",
+      "symbol": "HOHOHO",
+      "contract_address": "0x14940169e2db1595cdd3cacd30decc5bbb4d9f19",
+      "decimals": 4,
+      "logo_url": "https://assets.coingecko.com/coins/images/23936/small/18344.png?1645750762"
+    },
+     {
+      "name": "Nolian Credits",
+      "symbol": "NLCR",
+      "contract_address": "0x02b439484227ec3a8798b1777b3076f29ba2e387",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23937/small/NeYoRkT.png?1645765929"
+    },
+     {
+      "name": "DnD Metaverse",
+      "symbol": "DNDB",
+      "contract_address": "0x4f857cfe2cd50c1a94ec88232ee0f5e3fd5db1ff",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23938/small/logodndb.png?1645766277"
+    },
+    {
       "name": "Cryptoids Admin Coin",
       "symbol": "CAC",
       "contract_address": "0x5b7d8a53e63f1817b68d40dc997cb7394db0ff1a",
