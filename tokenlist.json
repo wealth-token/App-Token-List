@@ -1,6 +1,13 @@
 {
   "tokens": [
     {
+      "name": "C Token",
+      "symbol": "C",
+      "contract_address": "0xc2f2b22adfddde6b0931bf8c304a7e95ccbbc109",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23962/small/FLyblznXwAEYY0l.jpg?1645810905"
+    },
+    {
       "name": "Wrapped Syscoin",
       "symbol": "WSYS",
       "contract_address": "0x747b1223b23e53070c54df355fac2e198aa54708",
