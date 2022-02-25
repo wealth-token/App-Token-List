@@ -1,6 +1,111 @@
 {
   "tokens": [
     {
+  "name": "Pirate X Pirate",
+  "symbol": "PXP",
+  "contract_address": "0x93c27727e72ec7510a06ea450366c1418c4ce547",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23881/small/AJLTxV30.png?1645601132"
+},
+{
+  "name": "TOURIST SHIBA INU",
+  "symbol": "TOURISTS",
+  "contract_address": "0x14eb173d2b4b8d888f9886bbec41ec1b0e18f2b6",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/23878/small/TOURISTS-200x200px.png?1645600641"
+},
+{
+  "name": "House Token",
+  "symbol": "House",
+  "contract_address": "0xb710023f4dd3ff78e72666473a09b25a80c19ce2",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23877/small/logo.png?1645600438"
+},
+{
+  "name": "Socaverse",
+  "symbol": "SOCA",
+  "contract_address": "0x57af121a8ddb1f9a8fafcf3229c92bf2856a8a29",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/23872/small/PINK-Token-LOGO.png?1645599962"
+},
+{
+  "name": "Crypto Realms War - YinYang",
+  "symbol": "YNY",
+  "contract_address": "0xc153e92e11ee84be0707c6d4c40f68f27d8444d7",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23871/small/PNG-LOGO-YNY.png?1645599896"
+},
+{
+  "name": "Ash Token",
+  "symbol": "ASH",
+  "contract_address": "0xe3c1bdeec4db91cd90c336776332fae2e00fddd9",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/23870/small/Ash-Logo-256.png?1645599536"
+},
+{
+  "name": "DOXED",
+  "symbol": "DOX",
+  "contract_address": "0xeda3eb7a5494443beb800cd4cc70388228cee84e",
+  "decimals": 10,
+  "logo_url": "https://assets.coingecko.com/coins/images/23853/small/500x500-LOGO.png?1645599154"
+},
+{
+  "name": "Baby Pokemoon",
+  "symbol": "BPM",
+  "contract_address": "0x35359f21abdf0f2b6ae01bfb96814738b515111e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23869/small/bpm_200.png?1645598777"
+},
+{
+  "name": "Cloudname",
+  "symbol": "CNAME",
+  "contract_address": "0xfc3514474306e2d4aa8350fd8fa9c46c165fe8cd",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23868/small/_NsbVq86_400x400.jpg?1645598280"
+},
+{
+  "name": "HEARN",
+  "symbol": "HEARN",
+  "contract_address": "0xd554172bda501869c8a2235f796eded1068fabdc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23867/small/h-quadrata.png?1645597648"
+},
+{
+  "name": "Coin Fast Alert",
+  "symbol": "CFA",
+  "contract_address": "0xb38a2a58911372fdb12e2d4e4da8714c7f652261",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23865/small/200x200.png?1645597239"
+},
+{
+  "name": "Super Whale DAO",
+  "symbol": "SWDAO",
+  "contract_address": "0x284189f2804d779380377a6583f2bc4dfa034cbe",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/23864/small/kBgO5aB.jpeg?1645596924"
+},
+{
+  "name": "KLing Token",
+  "symbol": "KLing",
+  "contract_address": "0xcca166e916088cce10f4fb0fe0c8bb3577bb6e27",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23861/small/Kling-Logo-32.png?1645595953"
+},
+{
+  "name": "DOGS",
+  "symbol": "DOGS",
+  "contract_address": "0xdbdc73b95cc0d5e7e99dc95523045fc8d075fb9e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23860/small/0xDBdC73B95cC0D5e7E99dC95523045Fc8d075Fb9e.png?1645595761"
+},
+{
+  "name": "PIGS",
+  "symbol": "PIGS",
+  "contract_address": "0x3a4c15f96b3b058ab3fb5faf1440cc19e7ae07ce",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23859/small/0x3A4C15F96B3b058ab3Fb5FAf1440Cc19E7AE07ce.png?1645595514"
+},
+    {
       "name": "Athenas",
       "symbol": "ATHENASV2",
       "contract_address": "0x95d07a6b1dd22cfc6f775e9574e4374995e7ef89",
