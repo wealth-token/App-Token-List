@@ -1,5 +1,61 @@
 {
   "tokens": [
+    {
+      "name": "Cryptoids Admin Coin",
+      "symbol": "CAC",
+      "contract_address": "0x5b7d8a53e63f1817b68d40dc997cb7394db0ff1a",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23941/small/icon_CAC_500.png?1645768552"
+    },
+     {
+      "name": "MetaLuna",
+      "symbol": "METALUNA",
+      "contract_address": "0xe15a888a7268315bc5855dac4593dc4444bb293d",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23945/small/metaluna.png?1645770671"
+    },
+    {
+      "name": "GoCryptoMe",
+      "symbol": "GCME",
+      "contract_address": "0x9528cceb678b90daf02ca5ca45622d5cbaf58a30",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23946/small/WDBxWle.png?1645771102"
+    },
+    {
+      "name": "Kitten Coin",
+      "symbol": "KITTENS",
+      "contract_address": "0x0812c7045d69cd3a881becab80e23c222cfbe032",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23947/small/IIOISE0-Imgur.png?1645771280"
+    },
+    {
+      "name": "Headbangers Club",
+      "symbol": "HEADBANGERS",
+      "contract_address": "0xc6f5f3a4aa025a7e3b86a5d5dfecf545390ce8ee",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23948/small/s29kxPoN_400x400.jpg?1645771384"
+    },
+    {
+      "name": "Quantic",
+      "symbol": "QUANTIC",
+      "contract_address": "0x7700edc3dbb30cbb7603212e061c804220c3ca54",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23953/small/Logo-200.png?1645773008"
+    },
+    {
+      "name": "Metawar",
+      "symbol": "METAWAR",
+      "contract_address": "0x43a172c44dc55c2b45bf9436cf672850fc8ba046",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23955/small/8bGlhry.png?1645774463"
+    },
+    {
+      "name": "Tokenbank",
+      "symbol": "TBANK",
+      "contract_address": "0x833b5cb9a2cffb1587bbefe53a451d0989fba714",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23957/small/155598249-88dcbab0-b45a-4558-b65e-b739bf386f79.png?1645774850"
+    },
      {
       "name": "Baby Catcoin",
       "symbol": "BABYCATS",
