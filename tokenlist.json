@@ -1,6 +1,125 @@
 {
   "tokens": [
     {
+  "name": "Teddy dog",
+  "symbol": "Tdg",
+  "contract_address": "0xd02193a88ff17d40c0bb97d316067b3fd4cb3b9d",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/23601/small/tdg.png?1644735602"
+},
+{
+  "name": "Wrapped VSolidus Coin",
+  "symbol": "WVSOL",
+  "contract_address": "0x3f76cb0b1c2be725f4015bc55fe8cf89dbb4d938",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/23600/large/wvsol.png?1644670608"
+},
+{
+  "name": "Shengweihu",
+  "symbol": "Shengweihu",
+  "contract_address": "0x9eafda01a41906048e0c81c81c16047d77ab6c55",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/23596/large/shengweihu.png?1644658197"
+},
+{
+  "name": "LifeTime",
+  "symbol": "LFT",
+  "contract_address": "0x981847116ca6104961929f6ece98bcd629082c74",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/23595/large/lft.png?1644655646"
+},
+{
+  "name": "MarkMeta",
+  "symbol": "MMT",
+  "contract_address": "0xcc8b870ddb18c211e376b306302c29b46afc3ab3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23594/large/mmt.png?1644653878"
+},
+{
+  "name": "Fado Go",
+  "symbol": "FADO",
+  "contract_address": "0x827d24bb2aad813fe6f49b798f44cce4c48bd478",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23593/large/fado.png?1644652496"
+},
+{
+  "name": "MONNFTS",
+  "symbol": "MON",
+  "contract_address": "0x5e4f0f6fac92e76e41a0d043df565fe8fbfc1de3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23589/large/MONlogo.png?1644648952"
+},
+{
+  "name": "DarePlay",
+  "symbol": "DPL",
+  "contract_address": "0x08a5390fee3602ca833a9b6d3f12b0891b08e689",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23585/large/logo-dpl.png?1644648039"
+},
+{
+  "name": "Gaming Stars",
+  "symbol": "GS1",
+  "contract_address": "0x99f1699b33f80ea30b7d0138c749363cce3d8e39",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23583/large/-up9F4vj_400x400.jpg?1644647349"
+},
+{
+  "name": "The Nature Token",
+  "symbol": "$Nature",
+  "contract_address": "0x080cc6eb47dcae6a42fc5408ebd5cf2aa05eaec3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23582/large/eFkXKa8T_400x400.jpg?1644646877"
+},
+{
+  "name": "Healthify",
+  "symbol": "HTF",
+  "contract_address": "0x1a8b6e637aab57c8544dc90bd813c62faa68aa1c",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/23574/large/logo-200.png?1644483564"
+},
+{
+  "name": "Healthify",
+  "symbol": "HTF",
+  "contract_address": "0x1a8b6e637aab57c8544dc90bd813c62faa68aa1c",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/23574/large/logo-200.png?1644483564"
+},
+{
+  "name": "Community Vote Power",
+  "symbol": "CVP",
+  "contract_address": "0x64ae88a79f79a2cf3bf032ff6b687966b09645d9",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/23573/large/CVPCMC.png?1644480670"
+},
+{
+  "name": "lizardtoken.finance",
+  "symbol": "LIZ",
+  "contract_address": "0xfcb520b47f5601031e0eb316f553a3641ff4b13c",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/23570/large/download_%2847%29.png?1644475361"
+},
+{
+  "name": "Catcoin",
+  "symbol": "CATS",
+  "contract_address": "0x3b3691d4c3ec75660f203f41adc6296a494404d0",
+  "decimals": 0,
+  "logo_url": "https://assets.coingecko.com/coins/images/23569/large/17318.png?1644475322"
+},
+{
+  "name": "Sandwich Network",
+  "symbol": "$SANDWICH",
+  "contract_address": "0xd3253fc0a42e6dcf4f66ab147f628e3f29e9b214",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23562/large/Sandwich_Token_Logo.png?1644474250"
+},
+{
+  "name": "SPORTOKEN",
+  "symbol": "SPT",
+  "contract_address": "0xd677bed5adf1de76f957b108dadb280baa8f76b5",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23559/large/sportoken200x200.png?1644473864"
+},
+    {
   "name": "xApe",
   "symbol": "XP",
   "contract_address": "0xde9620e10b96b6c713df1df00361e8aafd486897",
