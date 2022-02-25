@@ -1,6 +1,48 @@
 {
   "tokens": [
     {
+      "name": "CHEEBS",
+      "symbol": "CHEE",
+      "contract_address": "0xe6c78f31e481b144df5e6e35df8be83f58769670",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23897/small/7032D83E-7A43-45E6-A9B4-B811395237E0.png?1645625471"
+    },
+    {
+      "name": "MetaRim",
+      "symbol": "RIM",
+      "contract_address": "0xa25199a79a34cc04b15e5c0bba4e3a557364e532",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23904/small/rim.png?1645680141"
+    },
+    {
+      "name": "MetaRim",
+      "symbol": "RIM",
+      "contract_address": "0xa25199a79a34cc04b15e5c0bba4e3a557364e532",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23904/small/rim.png?1645680141"
+    },
+    {
+      "name": "Orbitau Taureum",
+      "symbol": "TAUM",
+      "contract_address": "0x02e22eb7f6e73ef313dd71248cd164b1bdc5aadd",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23905/small/_Token_TAUM_final.png?1645681470"
+    },
+    {
+      "name": "CheersLand",
+      "symbol": "CHEERS",
+      "contract_address": "0xbbbcb350c64fe974e5c42a55c7070644191823f3",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23906/small/15236.png?1645681595"
+    },
+    {
+      "name": "CowCoin",
+      "symbol": "CC",
+      "contract_address": "0x982de39fb553c7b4399940a811c6078a87d4efba",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23908/small/46d739d6-0be0-4742-a408-fd93306ac5dc.jpg?1645681837"
+    },
+    {
       "name": "C Token",
       "symbol": "C",
       "contract_address": "0xc2f2b22adfddde6b0931bf8c304a7e95ccbbc109",
