@@ -1,6 +1,83 @@
 {
   "tokens": [
     {
+      "name": "Athenas",
+      "symbol": "ATHENASV2",
+      "contract_address": "0x95d07a6b1dd22cfc6f775e9574e4374995e7ef89",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23883/small/banner-atn-2.png?1645601382"
+    },
+    {
+      "name": "Ixirswap",
+      "symbol": "IXIR",
+      "contract_address": "0x17179f506b89d80291b581f200f34b17ff172cd3",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23884/small/CMC_CG_%282%29.png?1645601643"
+    },
+    {
+      "name": "TheBoringToken",
+      "symbol": "TBT",
+      "contract_address": "0x0ae1bd8e41ae13776d5d038ce5316df21e00fd15",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23885/small/200x200.png?1645601791"
+    },
+    {
+      "name": "Stoned Shiba",
+      "symbol": "STONED",
+      "contract_address": "0x8feb2557f66a55ea261c2dfce1c3029e27067131",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23886/small/5pxi2AQ.png?1645601959"
+    },
+    {
+      "name": "Thropic",
+      "symbol": "THROPICV2",
+      "contract_address": "0x1ab528592d132527378b2a060ab0baa178692d83",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23888/small/thropic_400x400.jpg?1645605774"
+    },
+     {
+      "name": "Booby Trap",
+      "symbol": "BBT",
+      "contract_address": "0x609b88f5a4abb7a55ba0c6d255c3f1b1bc7a4d76",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23889/small/round.png?1645606123"
+    },
+    {
+      "name": "BNBBack",
+      "symbol": "BNBBACK",
+      "contract_address": "0x280ebb7c9f2c90ac6dd136516598a2f9efe70507",
+      "decimals": 18,
+      "logo_url": "https://assets.coingecko.com/coins/images/23890/small/MxdOnJKe_400x400.jpg?1645606314"
+    },
+    {
+      "name": "FqSwap",
+      "symbol": "FQS",
+      "contract_address": "0x9075055c3ee590ee0d7a2e1ef4376a851369e8e0",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23891/small/020.png?1645606539"
+    },
+    {
+      "name": "Web3 Doge",
+      "symbol": "WEB3",
+      "contract_address": "0xf45de5a6d02c4a6e050b90add33ebf0a34d017e0",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23892/small/Web3Doge_LogoPNGversion.png?1645606985"
+    },
+    {
+      "name": "Meta Club",
+      "symbol": "CLUB",
+      "contract_address": "0xae01ac36deb43ec2593855e35f5e62dc992d7c95",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23893/small/logo-metaclub.png?1645607223"
+    },
+    {
+      "name": "Milo Inu",
+      "symbol": "MILO",
+      "contract_address": "0xd9de2b1973e57dc9dba90c35d6cd940ae4a3cbe1",
+      "decimals": 9,
+      "logo_url": "https://assets.coingecko.com/coins/images/23896/small/milo.png?1645719021"
+    },
+    {
       "name": "CHEEBS",
       "symbol": "CHEE",
       "contract_address": "0xe6c78f31e481b144df5e6e35df8be83f58769670",
