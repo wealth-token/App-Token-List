@@ -1,6 +1,13 @@
 {
   "tokens": [
     {
+  "name": "Torekko",
+  "symbol": "TRK",
+  "contract_address": "0xa2e3e2817f00822f3c1e71a604eca4196af923d6",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23357/large/trk.PNG?1643927454"
+},
+    {
   "name": "Galaxy Force X",
   "symbol": "GFX",
   "contract_address": "0x68212c9d0addb76aafb2e6f4d93ff80b27a8f22e",
@@ -65,7 +72,7 @@
 },
 {
   "name": "EverPrinter",
-  "symbol": "$EPRINT",
+  "symbol": "EPRINT",
   "contract_address": "0x1209c8fbdb85eb887f81b47b74068f679c25d3a5",
   "decimals": 18,
   "logo_url": "https://assets.coingecko.com/coins/images/23531/large/17844.png?1644386517"
@@ -107,7 +114,7 @@
 },
 {
   "name": "BezosDoge",
-  "symbol": "$BeDoge",
+  "symbol": "BeDoge",
   "contract_address": "0xdd56f0bbcadad91d413d66ccd6901e61aadfa77a",
   "decimals": 9,
   "logo_url": "https://assets.coingecko.com/coins/images/23520/large/7SQPyg4.jpeg?1644302643"
@@ -331,7 +338,7 @@
 },
 {
   "name": "BLACK SHIBA",
-  "symbol": "$BSHIB",
+  "symbol": "BSHIB",
   "contract_address": "0x1f625a09f8073bfb136a599d43b134960eb5251b",
   "decimals": 9,
   "logo_url": "https://assets.coingecko.com/coins/images/23440/large/Screenshot-2022-02-02-at-00-51-30.png?1644212641"
@@ -387,7 +394,7 @@
 },
 {
   "name": "WALTERINU",
-  "symbol": "$WINU",
+  "symbol": "WINU",
   "contract_address": "0x42c1613dd2236cfd60b5cbec846b5ead71be99df",
   "decimals": 18,
   "logo_url": "https://assets.coingecko.com/coins/images/23429/large/F97647-AF-F246-4-CD1-879-E-711-E497-B8915.png?1644477209"
@@ -401,7 +408,7 @@
 },
 {
   "name": "CUFFIES",
-  "symbol": "$CUFFIES",
+  "symbol": "CUFFIES",
   "contract_address": "0x5a4b1e06a6fc1f0ba58097fb481db295c4989b3a",
   "decimals": 18,
   "logo_url": "https://assets.coingecko.com/coins/images/23423/large/Untitled-200-x-200-px.png?1644200822"
