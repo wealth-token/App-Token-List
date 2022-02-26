@@ -1,6 +1,69 @@
 {
   "tokens": [
     {
+  "name": "Hare Plus Token",
+  "symbol": "HARE PLUS",
+  "contract_address": "0x78c6e90afa87e2c97cac1a07652aa0998c6c9078",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/23963/large/HmqVWHLMmmBR-FjcKAul8N9EvYjZ5iCUkW5lVLJ1b4RJfIzGjHNKRX2ZpKYQaH1A9SEc7GtwSBXv627keAFAfiFETltzgpHnM6OXl8bs3Rh70O_ttZs903Y8pwgScYvHmUomPTzMRZczAEgTLyTX8c1u072b0Rn0zd7WPPWXAxr95k07SqApk2cC4b8XdzsO37zzg9gR2wMLsx3.jpg?1645858043"
+},
+{
+  "name": "Battle Inu",
+  "symbol": "BINU",
+  "contract_address": "0xe46653067c2dfc685267db77f3052105214315fd",
+  "decimals": 11,
+  "logo_url": "https://assets.coingecko.com/coins/images/23964/large/ScQkHhrL_400x400.jpg?1645858351"
+},
+{
+  "name": "Dragons gameFi",
+  "symbol": "$DRAGONS",
+  "contract_address": "0x35d975d9b6bfee81d1e060d6dde07a5b082cb79b",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/23966/large/_dragons.png?1645859271"
+},
+{
+  "name": "Coin on File Token",
+  "symbol": "COFT",
+  "contract_address": "0xe646905e1533aacd668faf5a7b0464f9a18123e0",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23967/large/coft.png?1645860166"
+},
+{
+  "name": "Libero Financial Freedom",
+  "symbol": "LIBERO",
+  "contract_address": "0x0dfcb45eae071b3b846e220560bbcdd958414d78",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23971/large/libero.png?1645869416"
+},
+{
+  "name": "Amethyst",
+  "symbol": "AMES",
+  "contract_address": "0xb9e05b4c168b56f73940980ae6ef366354357009",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23973/large/ames.png?1645871205"
+},
+{
+  "name": "ASHARE",
+  "symbol": "ASHARE",
+  "contract_address": "0xfa4b16b0f63f5a6d0651592620d585d308f749a4",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23974/large/ashare.png?1645871503"
+},
+{
+  "name": "DAOBAO",
+  "symbol": "BAO",
+  "contract_address": "0x21982f0a78e8248f7318aa7dd6c19daac9018ecb",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23976/large/bao.png?1645872379"
+},
+{
+  "name": "MegaMoon",
+  "symbol": "MGMOON",
+  "contract_address": "0x78b971e8b6b5a5f2cc5febb8ab9f046037c2107c",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23977/large/mgmoon.png?1645872642"
+},
+    {
   "name": "Torekko",
   "symbol": "TRK",
   "contract_address": "0xa2e3e2817f00822f3c1e71a604eca4196af923d6",
