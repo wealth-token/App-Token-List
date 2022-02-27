@@ -1,6 +1,62 @@
 {
   "tokens": [
     {
+  "name": "ZINARI",
+  "symbol": "ZINA",
+  "contract_address": "0x76beed9649c0c297cb6de10d07efd66db38e3c47",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23984/large/zina.png?1645946241"
+},
+{
+  "name": "CryptoBattles",
+  "symbol": "CBT",
+  "contract_address": "0xd9150910de9a4df5d734f4d9b5ebe82bcce9095a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23985/large/cbt.png?1645946579"
+},
+{
+  "name": "The Last War",
+  "symbol": "TLW",
+  "contract_address": "0x67cdb81b89edd61158c60e8b97a65f3cb115d52e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23986/large/tlw.png?1645947161"
+},
+{
+  "name": "Defi Empire Gold",
+  "symbol": "DEG",
+  "contract_address": "0x799c633fcc867877e568cd590f4689feb2993a75",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/23987/large/deg.png?1645947468"
+},
+{
+  "name": "Cryptoids Game Coin",
+  "symbol": "CGC",
+  "contract_address": "0xf35aee66ab0d099af233c1ab23e5f2138b0ed15b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23988/large/cgc.png?1645947810"
+},
+{
+  "name": "ACEToken",
+  "symbol": "ACE",
+  "contract_address": "0xfaaa87943bfca6d97434be3d26c589647fea4375",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23990/large/ace.png?1645949619"
+},
+{
+  "name": "FINO DAO",
+  "symbol": "FINO",
+  "contract_address": "0x6c9ae5d6746ee1b6bd03310079aa11d8ec409212",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23993/large/fino.png?1645951880"
+},
+{
+  "name": "BSCBAY",
+  "symbol": "BSCB",
+  "contract_address": "0xaa3387b36a4acd9d2c1326a7f10658d7051b73a6",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23998/large/bscb.png?1645958644"
+},
+    {
   "name": "Hare Plus Token",
   "symbol": "HARE PLUS",
   "contract_address": "0x78c6e90afa87e2c97cac1a07652aa0998c6c9078",
