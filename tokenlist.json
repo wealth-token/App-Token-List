@@ -1,6 +1,13 @@
 {
   "tokens": [
     {
+  "name": "Doge X",
+  "symbol": "DOGEX",
+  "contract_address": "0x4ddba7c715072d797e28f79fd8afc0942498e9a3",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24021/large/3Dsc6vJe_400x400.jpg?1646057590"
+},
+    {
   "name": "MetaBlackout",
   "symbol": "MBT",
   "contract_address": "0x3a20c33691295da2f71b291449c137067a2c1355",
