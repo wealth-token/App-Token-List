@@ -1,6 +1,62 @@
 {
   "tokens": [
     {
+  "name": "MetaBlackout",
+  "symbol": "MBT",
+  "contract_address": "0x3a20c33691295da2f71b291449c137067a2c1355",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24002/large/logo_-_2022-02-28T113304.386.png?1646019233"
+},
+{
+  "name": "Kyberdyne",
+  "symbol": "KBD",
+  "contract_address": "0x3dde01a467f99e58f996de835058c767a3edd2ac",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24003/large/mrSWHBjQ_400x400.jpg?1646026119"
+},
+{
+  "name": "Connector Coin",
+  "symbol": "CTCO",
+  "contract_address": "0x3746519cfb4a0ca13745a38326282585de95e0a5",
+  "decimals": 2,
+  "logo_url": "https://assets.coingecko.com/coins/images/24004/large/connector-logo-200-200.jpg?1646026804"
+},
+{
+  "name": "CryptoGamez",
+  "symbol": "CGAZ",
+  "contract_address": "0xf4c375fd1c53f08ad597cf1db60b7c23153db3bc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24005/large/gtEbDVF.jpeg?1646027097"
+},
+{
+  "name": "Meme Machine",
+  "symbol": "MeMa",
+  "contract_address": "0xe340aadc9db4a73b94b13e299c26e6c8c89acd35",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24009/large/200x200.png?1646029962"
+},
+{
+  "name": "WIMI",
+  "symbol": "WIMI",
+  "contract_address": "0xb4a4e713ea36e045bca65d04755aa97a0b70931d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24011/large/xAOsvdIYo3eJAKdZjKXJqfRk10a8JY2yp6yYfm9Y.jpg?1646030343"
+},
+{
+  "name": "CryptoRPG",
+  "symbol": "RPG",
+  "contract_address": "0x284643d9df25551a85d68ef903e59f8ef90bec01",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24015/large/logo.png?1646031270"
+},
+{
+  "name": "IDLE Token",
+  "symbol": "IDLE",
+  "contract_address": "0xc2555f8aef79160a2cb319781f3a5c726b4a8ae6",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24019/large/pZgR4golsHfj-Lmw79XULWbZ7K_F7nr0C_jq2CygrCx9j-Fd9MRl8tbxQxbetJZfAB5dj2puRgExlecOjdKObRGXrC1-KmDBe17ckcLFzcIctoP330NNkTrpT_mndu4cEyp6LU9yDZN4rKbFVbM-Qn3ZAJRkFDD46piUrfPkfVsSQ8d8hlZ1Ay6vUUU7aMnpOsOqYUrORW80od.jpg?1646040073"
+},
+    {
   "name": "ZINARI",
   "symbol": "ZINA",
   "contract_address": "0x76beed9649c0c297cb6de10d07efd66db38e3c47",
