@@ -1,6 +1,41 @@
 {
   "tokens": [
     {
+  "name": "CryptopiaLandDollar",
+  "symbol": "CLD",
+  "contract_address": "0xb0d9bd0937720956b3f1d4cab7d54ebab1dcba7f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18541/large/200x200_%2830%29.png?1632308434"
+},
+{
+  "name": "Mor Stablecoin",
+  "symbol": "MOR",
+  "contract_address": "0x87bade473ea0513d4aa7085484aeaa6cb6ebe7e3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18549/large/MOR_logo_icon_black_background_round_200_x_200-01.png?1632364631"
+},
+{
+  "name": "METASEER",
+  "symbol": "METAS",
+  "contract_address": "0xfa1e1754bd2896d467930c97d07af799c531cb7d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/17443/large/metas.PNG?1627863142"
+},
+{
+  "name": "Gem Token",
+  "symbol": "GEM",
+  "contract_address": "0x9fb4def63f8caec83cb3ebcc22ba0795258c988a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18745/large/GEM-icon_cg200x200.png?1633316048"
+},
+{
+  "name": "NEKO",
+  "symbol": "NEKO",
+  "contract_address": "0xdedf440ad8bf07729ead58f4ff52edab20d2628d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15643/large/nekotoken.png?1621432195"
+},
+    {
   "name": "LE CALIENTE",
   "symbol": "LECALIENTE",
   "contract_address": "0xaa66a93346e09d140e203eadf22886a21123a1b9",
