@@ -1,6 +1,202 @@
 {
   "tokens": [
     {
+  "name": "Coinerr",
+  "symbol": "ERR",
+  "contract_address": "0x8fe8df37335edb6e9f41f6baf550d2a973f48f21",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24031/large/ERR-logo.png?1646116183"
+},
+{
+  "name": "Ginoa Token",
+  "symbol": "GINOA",
+  "contract_address": "0x2ff90b0c29ededdaf11c847925ea4a17789e88c3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24033/large/gintoken.png?1646117177"
+},
+{
+  "name": "MetaSnooker",
+  "symbol": "MSR",
+  "contract_address": "0xba8d9b8f138ee5269a5c23339775510d050b75c1",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24038/large/HZ3VfBy.png?1646118467"
+},
+{
+  "name": "FORTKNOX",
+  "symbol": "KNOX",
+  "contract_address": "0x5f74afff1e535f95cc07443dfa0e200f267c5fbb",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24039/large/zU8BKaFr_400x400.jpg?1646118737"
+},
+{
+  "name": "Wrapped ZNN",
+  "symbol": "wZNN",
+  "contract_address": "0x84b174628911896a3b87fa6980d05dbc2ee74836",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/8177/large/kC-sx49e_400x400.jpg?1555989643"
+},
+{
+  "name": "Everdome",
+  "symbol": "DOME",
+  "contract_address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/23267/large/Ix-ms0fq_400x400.jpg?1643414048"
+},
+{
+  "name": "SafeMoon",
+  "symbol": "SFM",
+  "contract_address": "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/21863/large/photo_2021-12-22_14.43.36.jpeg?1640155440"
+},
+{
+  "name": "BNB48 Club Token",
+  "symbol": "KOGE",
+  "contract_address": "0xe6df05ce8c8301223373cf5b969afcb1498c5528",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/13827/large/bnb48.png?1612154326"
+},
+{
+  "name": "EKTA v2",
+  "symbol": "EKTA v2",
+  "contract_address": "0x45808ce43eb2d7685ff0242631f0feb6f3d8701a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/22350/large/token.jpg?1641882684"
+},
+{
+  "name": "Splintershards",
+  "symbol": "SPS",
+  "contract_address": "0x1633b7157e7638c4d6593436111bf125ee74703f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/17332/large/splinter.PNG?1627339560"
+},
+{
+  "name": "Doge Army Token",
+  "symbol": "DGAT",
+  "contract_address": "0x96e3bd1915483ed6e6569e908a0f6f49434557ed",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/19412/large/pfeuRgb.png?1635212477"
+},
+{
+  "name": "Woonkly Power",
+  "symbol": "WOOP",
+  "contract_address": "0x8b303d5bbfbbf46f1a4d9741e491e06986894e18",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/14494/large/woonkly_logo.png?1616495622"
+},
+{
+  "name": "Koda Cryptocurrency",
+  "symbol": "KODA",
+  "contract_address": "0x8094e772fa4a60bdeb1dfec56ab040e17dd608d5",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/15577/large/koda.png?1639224696"
+},
+{
+  "name": "Hacken Token",
+  "symbol": "HAI",
+  "contract_address": "0xaa9e582e5751d703f85912903bacaddfed26484c",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/11081/large/logo_haken_vector.png?1593511379"
+},
+{
+  "name": "ApolloX Token",
+  "symbol": "APX",
+  "contract_address": "0x78f5d389f5cdccfc41594abab4b0ed02f31398b3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/21972/large/apx.png?1640765293"
+},
+{
+  "name": "JADE",
+  "symbol": "JADE",
+  "contract_address": "0x7ad7242a99f21aa543f9650a56d141c57e4f6081",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/20663/large/jade.jpg?1637545864"
+},
+{
+  "name": "WeGro",
+  "symbol": "WEGRO",
+  "contract_address": "0xd7c5d2a3b7868e6dd539e145c98a565f29ef3fa4",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/21675/large/wegrocoin_logo_favicon.png?1639711396"
+},
+{
+  "name": "FC Lazio Fan Token",
+  "symbol": "LAZIO",
+  "contract_address": "0x77d547256a2cd95f32f67ae0313e450ac200648d",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/19263/large/B4Lla6V6_400x400.png?1634819219"
+},
+{
+  "name": "Luna Rush Token",
+  "symbol": "LUS",
+  "contract_address": "0xde301d6a2569aefcfe271b9d98f318baee1d30a4",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/22295/large/16197.png?1641420414"
+},
+{
+  "name": "Imported GBYTE",
+  "symbol": "GBYTE",
+  "contract_address": "0xeb34de0c4b2955ce0ff1526cdf735c9e6d249d09",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/561/large/byteball.png?1547564361"
+},
+{
+  "name": "Wrapped Signa",
+  "symbol": "WSIGNA",
+  "contract_address": "0x7b0e7e40ee4672599f7095d1ddd730b0805195ba",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/154/large/SIGNA.png?1625033010"
+},
+{
+  "name": "METAVPAD.com",
+  "symbol": "METAV",
+  "contract_address": "0x62858686119135cc00c4a3102b436a0eb314d402",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/21397/large/metav.png?1639044315"
+},
+{
+  "name": "Electra Protocol",
+  "symbol": "XEP",
+  "contract_address": "0xb897d0a0f68800f8be7d69ffdd1c24b69f57bf3e",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/13589/large/Apple-iPhone-Icon-Retina.png?1609939024"
+},
+{
+  "name": "XPX",
+  "symbol": "XPX",
+  "contract_address": "0x6f3aaf802f57d045efdd2ac9c06d8879305542af",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/3735/large/proximax.png?1548332126"
+},
+{
+  "name": "BlockApeScissors",
+  "symbol": "BAS",
+  "contract_address": "0x8ddeec6b677c7c552c9f3563b99e4ff90b862ebc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/17404/large/TxMzDQ5.png?1627536526"
+},
+{
+  "name": "ArtWallet",
+  "symbol": "1ART",
+  "contract_address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/19307/large/token_light_3x.png?1642936901"
+},
+{
+  "name": "FC Santos Fan Token",
+  "symbol": "SANTOS",
+  "contract_address": "0xa64455a4553c9034236734faddaddbb64ace4cc7",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/21132/large/santos.png?1638357080"
+},
+{
+  "name": "VCGamers",
+  "symbol": "VCG",
+  "contract_address": "0x1f36fb2d91d9951cf58ae4c1956c0b77e224f1e9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/22371/large/VCG-Token-Logo-PNG.png?1643187590"
+},
+    {
   "name": "Doge X",
   "symbol": "DOGEX",
   "contract_address": "0x4ddba7c715072d797e28f79fd8afc0942498e9a3",
