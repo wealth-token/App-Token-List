@@ -1,6 +1,125 @@
 {
   "tokens": [
     {
+  "name": "Kaiju Worlds",
+  "symbol": "Kaiju",
+  "contract_address": "0x6fb9d47ea4379ccf00a7dcb17e0a2c6c755a9b4b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18282/large/kaijuworlds_200.png?1631248864"
+},
+{
+  "name": "TAHU",
+  "symbol": "TAHU",
+  "contract_address": "0xb8edd4261031c620431fe070b9e4b516571e9918",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18284/large/TAHU_LOGO_trans_200x200.png?1631252700"
+},
+{
+  "name": "SOSFOUNDATION.io",
+  "symbol": "SOS",
+  "contract_address": "0xc3eac7eb10cd1b6b11504259fe933d011d99b797",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/18290/large/FkqAAqSd_400x400.jpg?1631283396"
+},
+{
+  "name": "GameFi",
+  "symbol": "GAFI",
+  "contract_address": "0x89af13a10b32f1b2f8d1588f93027f69b6f4e27e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18292/large/gamefi.PNG?1631312307"
+},
+{
+  "name": "Poco Token",
+  "symbol": "POCO",
+  "contract_address": "0x394bba8f309f3462b31238b3fd04b83f71a98848",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18293/large/poco.PNG?1631312700"
+},
+{
+  "name": "Moon Warriors",
+  "symbol": "MWAR",
+  "contract_address": "0xf8a1919da520a6c3b92e6abc64bf83c8d4432b14",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18298/large/Logo_moon_warriors_voting_200x200.png?1631364446"
+},
+{
+  "name": "Mojo V2",
+  "symbol": "MOJOV2",
+  "contract_address": "0xd893b0a45a83e6a7be1caa904626f38a81cbbd0d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18320/large/tTxPCOr.png?1631531220"
+},
+{
+  "name": "Daddy Shark",
+  "symbol": "DaddyShark",
+  "contract_address": "0x4a8a99ac4e7973d20eb9e64db8eb94781dc80ba0",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/18322/large/BWgG7sZ.png?1631532285"
+},
+{
+  "name": "RugSeekers",
+  "symbol": "SEEK",
+  "contract_address": "0xd6225b43f1e2c80381225b49d650f928ee3f19d4",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/18325/large/06-A6637-B-1-F85-4400-9-D2-A-F09-B2-A449-E9-D.jpg?1631533055"
+},
+{
+  "name": "MINIBABY",
+  "symbol": "MBBY",
+  "contract_address": "0x170a687fea3cced46d76c38278e997409fa66760",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18326/large/download-1.png?1631533265"
+},
+{
+  "name": "Pet Kingdom Token",
+  "symbol": "PKD",
+  "contract_address": "0xa7c97d58cb980a701e3c6e4e6c45554eeb9aa878",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18375/large/logo_PETKINGDOM_galaxy_2_200x200.png?1631692225"
+},
+{
+  "name": "Seed",
+  "symbol": "SEED",
+  "contract_address": "0x4bc6e19ee0f1e034a927990c76b418c2a95e326f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18377/large/league.png?1631692716"
+},
+{
+  "name": "OVERLORD GAME",
+  "symbol": "OVL",
+  "contract_address": "0x9f3c31f32182564d8bd0c8d7e413e2368bbdc1cc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18379/large/1pcnVg3.png?1631693204"
+},
+{
+  "name": "Monsters Clan Token",
+  "symbol": "MONS",
+  "contract_address": "0xe4c797d43631f4d660ec67b5cb0b78ef5c902532",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18382/large/Monstersclan_Icon_200X200.png?1631723283"
+},
+{
+  "name": "AnyPad",
+  "symbol": "APAD",
+  "contract_address": "0x366d71ab095735b7dae83ce2b82d5262ef655f10",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18385/large/vxBgiYKj_400x400.png?1631746435"
+},
+{
+  "name": "BABYEGG",
+  "symbol": "BABYEGG",
+  "contract_address": "0x5ca0690a587202ff7dcb0934e070061687eab941",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18404/large/babyegg173x200.png?1631793491"
+},
+{
+  "name": "SPACExDOGE",
+  "symbol": "SPACExDOGE",
+  "contract_address": "0x01af9fc6130aeddbd2cdb6e684262f5b605471cc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18406/large/Capture.PNG?1631795131"
+},
+    {
   "name": "THOR DOGE",
   "symbol": "THOGE",
   "contract_address": "0x0c692b62c4e85171fd1c05fba889c9f873b81317",
