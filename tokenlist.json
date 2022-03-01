@@ -1,6 +1,167 @@
 {
   "tokens": [
     {
+  "name": "LE CALIENTE",
+  "symbol": "LECALIENTE",
+  "contract_address": "0xaa66a93346e09d140e203eadf22886a21123a1b9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18424/large/icon_lecaliente_200.png?1631860792"
+},
+{
+  "name": "AUREO",
+  "symbol": "AUR",
+  "contract_address": "0xadccd9b784b1398d95c2e952df4c78dc62c7dad9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18427/large/W7l4Jxsh_400x400.jpg?1631882540"
+},
+{
+  "name": "Rocket Venture",
+  "symbol": "RKTV",
+  "contract_address": "0x1ccb263dc35437b1ffc9f470024ca86a341d7fa3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18432/large/rocket-venture-RKTV-logo.png?1631944020"
+},
+{
+  "name": "KiteSync",
+  "symbol": "Kite",
+  "contract_address": "0xede26a1ee14281b58a5238a3ff246b02358a13b6",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18444/large/kite.PNG?1632053702"
+},
+{
+  "name": "HUDI",
+  "symbol": "HUDI",
+  "contract_address": "0x83d8ea5a4650b68cd2b57846783d86df940f7458",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18454/large/coin_200x200.png?1632105535"
+},
+{
+  "name": "Represent",
+  "symbol": "RPT",
+  "contract_address": "0x6e9a01f93ff2634f3296c536738dd593b10c524f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18456/large/NmHcS53-_400x400.jpg?1632106591"
+},
+{
+  "name": "Lucky Unicorn Token",
+  "symbol": "L99",
+  "contract_address": "0x033c90840f27c83b1aa0ffe6db65c954bf6abbdd",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18463/large/logo_-_2021-09-20T114557.572.png?1632109562"
+},
+{
+  "name": "Green Energy Coin - CNES",
+  "symbol": "GEC",
+  "contract_address": "0x0965d7717068ff4f8f302556316f7b8e8661e485",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/18465/large/GEC_200x200.png?1632114652"
+},
+{
+  "name": "CoinSwap Token",
+  "symbol": "CSS",
+  "contract_address": "0x3bc5798416c1122bcfd7cb0e055d50061f23850d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/17478/large/css.PNG?1627949390"
+},
+{
+  "name": "Game X Change Potion",
+  "symbol": "GXP",
+  "contract_address": "0x8347ac51ec4ef29324591d55e2b585a38b2ead5b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18471/large/gxp.png?1640072326"
+},
+{
+  "name": "Rinnegan",
+  "symbol": "REN",
+  "contract_address": "0xea3c7383b9bc4ac15fcdadce07e2e25cc6e7b627",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18472/large/logo2_%288%29.png?1632124030"
+},
+{
+  "name": "BinaHunter",
+  "symbol": "BHUNT",
+  "contract_address": "0x422603d04d5960d66c6f59dd95e26f9dcf3607a1",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18473/large/Binahunter-200x200.png?1632126194"
+},
+{
+  "name": "MiniFloki",
+  "symbol": "MiniFloki",
+  "contract_address": "0x5ee57424151d7256739a6e3386561f62d9f6eb05",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18490/large/Floki.png?1632213300"
+},
+{
+  "name": "EarlyBird",
+  "symbol": "EBIRD",
+  "contract_address": "0x999aeb6d778b3883c88ebc502b16a5395d011462",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/17465/large/earlybird.png?1627888719"
+},
+{
+  "name": "Galaxy Adventure",
+  "symbol": "GLA",
+  "contract_address": "0x292bb969737372e48d97c78c19b6a40347c33b45",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18494/large/logo1_%285%29.png?1632207841"
+},
+{
+  "name": "THEOSCOIN",
+  "symbol": "THS",
+  "contract_address": "0x6c5ff116bffc50ff59d0334d5643e15b71c6414a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18497/large/logo_theos_200x200.png?1632208429"
+},
+{
+  "name": "HodlADA",
+  "symbol": "HADA",
+  "contract_address": "0xc50d9ec1f70b907ca639e314e525c5adfd4285ba",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/18498/large/iF7HfWk.png?1632208535"
+},
+{
+  "name": "Poly-Peg MDX",
+  "symbol": "HMDX",
+  "contract_address": "0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18504/large/Capture.PNG?1632211012"
+},
+{
+  "name": "Wheelers",
+  "symbol": "WHEEL",
+  "contract_address": "0xb4b42d968cbf9e7d07eca5f03f8b4d99dfd7f7c9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18505/large/wheel_logo.png?1632211340"
+},
+{
+  "name": "JEDSTAR",
+  "symbol": "JED",
+  "contract_address": "0x058a7af19bdb63411d0a84e79e3312610d7fa90c",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/18509/large/jedstar_logo_coingecko.png?1632216213"
+},
+{
+  "name": "MiniSoccer",
+  "symbol": "MiniSoccer",
+  "contract_address": "0x1bb2ddf857afc8cca364ff091462d607f1f37e9f",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/18512/large/minisoccer.png?1633573794"
+},
+{
+  "name": "Agrinoble",
+  "symbol": "AGN",
+  "contract_address": "0x2317f8c321954070b57019bfbd9a1fae1f3c04d9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18524/large/logo_coingecko_%281%29.png?1632276140"
+},
+{
+  "name": "Cocktail",
+  "symbol": "COCKTAIL",
+  "contract_address": "0x10f292a6e694c38c5d570127da445143a2d882f3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/17454/large/cocktail.PNG?1627875385"
+},
+    {
   "name": "Kaiju Worlds",
   "symbol": "Kaiju",
   "contract_address": "0x6fb9d47ea4379ccf00a7dcb17e0a2c6c755a9b4b",
