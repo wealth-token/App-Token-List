@@ -1,6 +1,335 @@
 {
   "tokens": [
     {
+  "name": "GhostMarket Token",
+  "symbol": "GM",
+  "contract_address": "0x0b53b5da7d0f275c31a6a182622bdf02474af253",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/22765/large/gm.png?1642574907"
+},
+{
+  "name": "eYe on BSC",
+  "symbol": "eYe",
+  "contract_address": "0x9a257c90fa239fba07771ef7da2d554d148c2e89",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/20643/large/token_eye_1_%281%29_%282%29.png?1637468946"
+},
+{
+  "name": "Night Life Crypto",
+  "symbol": "NLIFE",
+  "contract_address": "0x86cbbedca621ae78a421a40365081caafda24296",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/16277/large/F6jp9eh.png?1623634100"
+},
+{
+  "name": "Overlord",
+  "symbol": "LORD",
+  "contract_address": "0x2daf1a83aa348afbcbc73f63bb5ee3154d9f5776",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18204/large/qkgkBYw.png?1630974966"
+},
+{
+  "name": "Dragon Kart",
+  "symbol": "KART",
+  "contract_address": "0x8bdd8dbcbdf0c066ca5f3286d33673aa7a553c10",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/19916/large/kart.png?1636182962"
+},
+{
+  "name": "Squid Moon",
+  "symbol": "SQM",
+  "contract_address": "0x2766cc2537538ac68816b6b5a393fa978a4a8931",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/20560/large/squidmoon-logo.png?1637212036"
+},
+{
+  "name": "Merkle Network Token",
+  "symbol": "MERKLE",
+  "contract_address": "0x000000000ca5171087c18fb271ca844a2370fc0a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/19838/large/merkle.PNG?1636032921"
+},
+{
+  "name": "BITORBIT.com",
+  "symbol": "BITORB",
+  "contract_address": "0xed0c1c9c64ff7c7cc37c3af0dfcf5b02efe0bb5f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/19850/large/bitorbit.PNG?1636060265"
+},
+{
+  "name": "DFSocial Gaming",
+  "symbol": "DFSG",
+  "contract_address": "0x612c49b95c9121107be3a2fe1fcf1efc1c4730ad",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/19918/large/Recurso_1_2x.png?1643452540"
+},
+{
+  "name": "Graphene",
+  "symbol": "GFN",
+  "contract_address": "0xf209ce1960fb7e750ff30ba7794ea11c6acdc1f3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/19159/large/Graphene-Logo.png?1634547901"
+},
+{
+  "name": "CROWDHERO",
+  "symbol": "CRWD",
+  "contract_address": "0xca76a652ac3c3f3b8669bd41e22a9257bc6a6bc6",
+  "decimals": 0,
+  "logo_url": "https://assets.coingecko.com/coins/images/17756/large/crwd.jpg?1629179230"
+},
+{
+  "name": "peachfolio",
+  "symbol": "PCHF",
+  "contract_address": "0xc1cbfb96a1d5361590b8df04ef78de2fa3178390",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16529/large/7d578071-601e-4ef6-9a98-cc7984b258c4.png?1624342728"
+},
+{
+  "name": "SwinCoin",
+  "symbol": "SWIN",
+  "contract_address": "0xe061618f0d3df5cb05fbf91455018f2d64074c85",
+  "decimals": 0,
+  "logo_url": "https://assets.coingecko.com/coins/images/20907/large/logo200.png?1637891981"
+},
+{
+  "name": "XIL",
+  "symbol": "XIL",
+  "contract_address": "0xf3be1a4a47576208c1592cc027087ce154b00672",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18247/large/projectx.PNG?1631134123"
+},
+{
+  "name": "Dios",
+  "symbol": "DIOS",
+  "contract_address": "0x08eecf5d03bda3df2467f6af46b160c24d931de7",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/21527/large/G1EYsLlS_400x400.png?1639382771"
+},
+{
+  "name": "Meliora",
+  "symbol": "MORA",
+  "contract_address": "0xeb633ec737889eba802478aea7eb0f5203eb8deb",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/14553/large/3vcbfVWS_400x400.png?1616992649"
+},
+{
+  "name": "Graviton Zero",
+  "symbol": "GRAV",
+  "contract_address": "0xa6168c7e5eb7c5c379f3a1d7cf1073e09b2f031e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/21844/large/kfw9xA0X_400x400.jpg?1640129436"
+},
+{
+  "name": "NoLimitCoin",
+  "symbol": "NLC",
+  "contract_address": "0x6519cb1f694ccbcc72417570b364f2d051eefb9d",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/758/large/nolimitcoin.png?1548329142"
+},
+{
+  "name": "rASKO on BSC",
+  "symbol": "rASKO",
+  "contract_address": "0xd118f42edbc839f7e1e85d5269a25288792c141b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/20977/large/r-ASKO-TOKEN-2-1.png?1638162089"
+},
+{
+  "name": "aiRight Token",
+  "symbol": "AIRI",
+  "contract_address": "0x7e2a35c746f2f7c240b664f1da4dd100141ae71f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16428/large/alright.PNG?1623995586"
+},
+{
+  "name": "BlocksSpace Token",
+  "symbol": "BLS",
+  "contract_address": "0x34aa9099d924f3fb2377ff20d81b235311c15346",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18023/large/1000Blocks-Logo-Small-Circle.png?1630496721"
+},
+{
+  "name": "Duel Network",
+  "symbol": "DUEL",
+  "contract_address": "0x297817ce1a8de777e7ddbed86c3b7f9dc9349f2c",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18061/large/duel.PNG?1630372398"
+},
+{
+  "name": "VIRVIA ONLINE SHOPPING",
+  "symbol": "VDV",
+  "contract_address": "0xe586a0af5f3844f1408fed1d284270827a116010",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/16838/large/virvia.png?1625299355"
+},
+{
+  "name": "SpaceCowBoy",
+  "symbol": "SCB",
+  "contract_address": "0x0d36cc179019db9a65aa3b85db59e4bb52df0b12",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/14178/large/AUC3R40.png?1615105143"
+},
+{
+  "name": "BCPAY FinTech",
+  "symbol": "BCPAY",
+  "contract_address": "0x21f1ce0fcf1e9e39f8e79b7762801e8096d9f6cd",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/18342/large/bcpay.jpg?1631601832"
+},
+{
+  "name": "CatBread",
+  "symbol": "CATBREAD",
+  "contract_address": "0x74a6e371f95073005b3a5faf4a9e25ae30290f94",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/16120/large/22TJQu3t_400x400.jpg?1623034628"
+},
+{
+  "name": "Golden Ball",
+  "symbol": "GLB",
+  "contract_address": "0x52eb6c887a4691f10bee396778603927c23be1fc",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/20274/large/glb.PNG?1636707869"
+},
+{
+  "name": "LQT Token",
+  "symbol": "LQT",
+  "contract_address": "0xbd2c43da85d007b0b3cd856fd55c299578d832bc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16384/large/ktQzdAe.png?1628601338"
+},
+{
+  "name": "PolkaCipher",
+  "symbol": "CPHR",
+  "contract_address": "0x7428be82fd79d4c98650a7c67de9682a64fcab71",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/17185/large/polka_logo.png?1626820864"
+},
+{
+  "name": "Krypto Kitty",
+  "symbol": "KTY",
+  "contract_address": "0x86296279c147bd40cbe5b353f83cea9e9cc9b7bb",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/22542/large/TU0c6_ZM_400x400.jpg?1642048650"
+},
+{
+  "name": "Nemesis DAO",
+  "symbol": "NMS",
+  "contract_address": "0x8ac9dc3358a2db19fdd57f433ff45d1fc357afb3",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/20389/large/nemesis_dao.PNG?1636961421"
+},
+{
+  "name": "DogeVille",
+  "symbol": "DVille",
+  "contract_address": "0xd3b6bfd18b34ae0e3165738bf66ebc64cad1b944",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/20961/large/unnamed.jpg?1638150132"
+},
+{
+  "name": "Fight Token",
+  "symbol": "FIGHT",
+  "contract_address": "0x4f39c3319188a723003670c3f9b9e7ef991e52f3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/21695/large/zGwwAgL.png?1639721544"
+},
+{
+  "name": "IMO",
+  "symbol": "IMO",
+  "contract_address": "0x94d79c325268c898d2902050730f27a478c56cc1",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/14831/large/nPpe2Js.png?1618564641"
+},
+{
+  "name": "BINANCE MULTI-CHAIN CAPITAL",
+  "symbol": "BMCC",
+  "contract_address": "0xb6d8ee99d5d6cfe7d80b666e6ff5e74e3f72756b",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/22480/large/logo_200x200.png?1643194112"
+},
+{
+  "name": "OptionRoom Token",
+  "symbol": "ROOM",
+  "contract_address": "0x3c45a24d36ab6fc1925533c1f57bc7e1b6fba8a4",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/13889/large/option_room_logo.png?1612518313"
+},
+{
+  "name": "Metafluence",
+  "symbol": "METO",
+  "contract_address": "0xa78775bba7a542f291e5ef7f13c6204e704a90ba",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/22998/large/Asset_1.png?1643087185"
+},
+{
+  "name": "iBuffer Token",
+  "symbol": "iBFR",
+  "contract_address": "0xa296ad1c47fe6bdc133f39555c1d1177bd51fbc5",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18540/large/buffer.png?1632308240"
+},
+{
+  "name": "CashCow",
+  "symbol": "COW",
+  "contract_address": "0x8b6fa031c7d2e60fbfe4e663ec1b8f37df1ba483",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/19388/large/cropped-cropped-CashCowToken_08.png?1635148053"
+},
+{
+  "name": "MetaToken",
+  "symbol": "META",
+  "contract_address": "0x04073d16c6a08c27e8bbebe262ea4d1c6fa4c772",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18408/large/d360aee2b1bd9fd9.png?1631795640"
+},
+{
+  "name": "Mercor Token",
+  "symbol": "MRCR",
+  "contract_address": "0x155dab50f1dded25c099e209e7b375456a70e504",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15938/large/6LIc1-Sm_400x400.png?1622459039"
+},
+{
+  "name": "Colligo",
+  "symbol": "COTK",
+  "contract_address": "0xea738b6f1c888b2eced0fad66918defefe7c4494",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/20903/large/f1fcc0d2-e1b0-4264-b7b1-9e382ba5c7ab.png?1642165801"
+},
+{
+  "name": "Infomatix",
+  "symbol": "INFO",
+  "contract_address": "0xdf727040d3997b5d95dee8c661fa96e3c13ee0c9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/19800/large/Logo_transparent_256.png?1635909082"
+},
+{
+  "name": "Moonpoly",
+  "symbol": "CMP",
+  "contract_address": "0xcfd947b1ad06c39522fb67fb00b21a3fda906e34",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/18522/large/logo_-_2021-09-22T094540.826.png?1632275150"
+},
+{
+  "name": "DeathRoad Token",
+  "symbol": "DRACE",
+  "contract_address": "0xa6c897caaca3db7fd6e2d2ce1a00744f40ab87bb",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/18178/large/DeathRoad_token_logo_200x200-25.png?1630897737"
+},
+{
+  "name": "Cockapoo",
+  "symbol": "CPOO",
+  "contract_address": "0x71809c4ff017ceade03038a8b597ecabb6519918",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16852/large/cpoo.png?1644648415"
+},
+{
+  "name": "Aurum",
+  "symbol": "AUR",
+  "contract_address": "0x1deb45c74e0192d9272adf54e9a7519c48c2bd81",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/17189/large/200x200-CMC-PNG-logo.png?1626830334"
+},
+    {
   "name": "MetaWars",
   "symbol": "WARS",
   "contract_address": "0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c",
