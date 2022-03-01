@@ -1,6 +1,272 @@
 {
   "tokens": [
     {
+  "name": "Rizen Coin",
+  "symbol": "RZN",
+  "contract_address": "0xc4a75e25d04719a9c7d348065a6819f3d5ea4a01",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15304/large/Rizen_logo_black.png?1620371263"
+},
+{
+  "name": "Psychic",
+  "symbol": "PSY",
+  "contract_address": "0x8dbc995946ad745dd77186d1ac10019b8ea6694a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/13780/large/Untitled-design-5-removebg-preview-1.png?1611727812"
+},
+{
+  "name": "Vision",
+  "symbol": "VSN",
+  "contract_address": "0xffc71bb355770b5abcc33ff3e652f63a1dff442e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/12253/large/vision_icon_200.png?1598521164"
+},
+{
+  "name": "Wrapped Marcoin token",
+  "symbol": "wMARC",
+  "contract_address": "0x5a12eb4227f177918b61826e718d239f0786b3a8",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/6884/large/marc-logo.png?1547043234"
+},
+{
+  "name": "RYI Unity",
+  "symbol": "RYIU",
+  "contract_address": "0xc6d736123fa8e8a5d85803b5c22799e394245fab",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/14512/large/ryi-unity_logo.png?1616633237"
+},
+{
+  "name": "AlgoPainter Token",
+  "symbol": "ALGOP",
+  "contract_address": "0xbee554dbbc677eb9fb711f5e939a2f2302598c75",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15273/large/algo.PNG?1620337035"
+},
+{
+  "name": "NFTSwaps",
+  "symbol": "SWAPS",
+  "contract_address": "0xc536462e5a9fdacd4f1008a91e7daba1374c0226",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15270/large/pNMNX1IR_400x400.png?1620336051"
+},
+{
+  "name": "MAKE MORE MONEY",
+  "symbol": "M3C",
+  "contract_address": "0xcf872f20ffaa164750f070ac06c000b570c8041b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/13741/large/M3_Logo_Red.png?1611695818"
+},
+{
+  "name": "Regiment Finance",
+  "symbol": "RTF",
+  "contract_address": "0xee3fd930ac87a2990d5b74e4b76facf715f2a3a5",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15267/large/rtf.PNG?1620285527"
+},
+{
+  "name": "Barbecue Token",
+  "symbol": "BBQ",
+  "contract_address": "0xd9a88f9b7101046786490baf433f0f6ab3d753e2",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15262/large/bbq.png?1620272127"
+},
+{
+  "name": "JaguarSwap Token",
+  "symbol": "JAGUAR",
+  "contract_address": "0x4a3524936db5c310d852266033589d3f6f30ba5d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15258/large/2_%286%29.png?1620269564"
+},
+{
+  "name": "GFORCE v2",
+  "symbol": "GFCE",
+  "contract_address": "0x5f136383e230f972739fae2e81e7e774afe64c66",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/14475/large/gforce_logo.png?1616407253"
+},
+{
+  "name": "Nydronia",
+  "symbol": "NIA",
+  "contract_address": "0xcbd8838796a2c4aa98665d3a111b198629495f2e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/13738/large/IMG-20210121-221955-366.png?1611294905"
+},
+{
+  "name": "GROW Token",
+  "symbol": "GROW",
+  "contract_address": "0x8cef274596d334ffa10f8976a920ddc81ba6e29b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15253/large/grow.PNG?1620266437"
+},
+{
+  "name": "AMMYI COIN",
+  "symbol": "AMI",
+  "contract_address": "0x1ef72a1df5e4d165f84fc43b20d56caa7dad46e1",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/14469/large/AMMYI.png?1630917084"
+},
+{
+  "name": "TRIIPMILES",
+  "symbol": "TIIM",
+  "contract_address": "0x3da4f9e86deef7c50a8b167493f26e894edcd7d5",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/12185/large/fOf8ZxL.png?1597961299"
+},
+{
+  "name": "Nosta",
+  "symbol": "NOSTA",
+  "contract_address": "0x8ac973ff7d79d78943ceaca5f7e667369c6dce66",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16241/large/Logo_Nosta.png?1623374738"
+},
+{
+  "name": "Plum Token",
+  "symbol": "PLUM",
+  "contract_address": "0xde8ed8c9480ea12d050182aa99630b235de30f83",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15239/large/spaces_-MYwxG-3f4C_llTJ9i8H_avatar-1619320882767.png?1620195558"
+},
+{
+  "name": "HorizonDollar",
+  "symbol": "HZD",
+  "contract_address": "0xfefbbeebbeef18e3e4a2909f2b2729ca2fc61347",
+  "decimals": 4,
+  "logo_url": "https://assets.coingecko.com/coins/images/15234/large/hzd.png?1639045268"
+},
+{
+  "name": "Passive Income",
+  "symbol": "PSI",
+  "contract_address": "0x6e70194f3a2d1d0a917c2575b7e33cf710718a17",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/13695/large/psi.png?1634697509"
+},
+{
+  "name": "The Grand Banks Token",
+  "symbol": "GRAND",
+  "contract_address": "0xee814f5b2bf700d2e843dc56835d28d095161dd9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16203/large/GRAND.png?1623292846"
+},
+{
+  "name": "CosmicSwap",
+  "symbol": "COSMIC",
+  "contract_address": "0x960cc8f437165b7362a34d95d1ec62dd2a940f00",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16197/large/logo_-_2021-06-10T084120.309.png?1623285688"
+},
+{
+  "name": "Ozagold",
+  "symbol": "OZG",
+  "contract_address": "0x8460b5a15b41e3fca7df1ed98a5017bbf518f3a9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16210/large/OZAGOLD.png?1623311730"
+},
+{
+  "name": "bxBTC",
+  "symbol": "bxBTC",
+  "contract_address": "0xab111d5948470ba73d98d66bbdf2798fbe093546",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/16194/large/BTC_Logo_Black_Gold.png?1623277866"
+},
+{
+  "name": "yBEARSwap",
+  "symbol": "sBEAR",
+  "contract_address": "0xdec858d5ee93568ce4ea5bbf9169cea23d2de305",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16188/large/LOGO_YBEARSWAP_SBEAR-Circle.png?1623250874"
+},
+{
+  "name": "ATA Token",
+  "symbol": "ATA",
+  "contract_address": "0xf30d69c1bf77542cf2649a011d2829cbf88e8e6c",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/16187/large/logo.png?1623250311"
+},
+{
+  "name": "Diamond Hands",
+  "symbol": "DHANDS",
+  "contract_address": "0x4552eafb35ec3aaca13b60c1edd593a61c021e37",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/16228/large/diamond_hands_logo.jpeg?1623345016"
+},
+{
+  "name": "RCUBE",
+  "symbol": "RCUBE",
+  "contract_address": "0xa6e53f07bd410df069e20ced725bdc9135146fe9",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/15206/large/retroflogo.png?1620101548"
+},
+{
+  "name": "rUSD",
+  "symbol": "rUSD",
+  "contract_address": "0x07663837218a003e66310a01596af4bf4e44623d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16184/large/rUSD-Logo-200.png?1623231145"
+},
+{
+  "name": "Kokoswap Token",
+  "symbol": "KOKO",
+  "contract_address": "0x7320c128e89ba4584ab02ed1c9c96285b726443c",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15205/large/Kokoswap.png?1624955646"
+},
+{
+  "name": "HERO",
+  "symbol": "HERO",
+  "contract_address": "0x9b26e16377ad29a6ccc01770bcfb56de3a36d8b2",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16245/large/HERO-200.png?1628255352"
+},
+{
+  "name": "Cubiex Power",
+  "symbol": "CBIX-P",
+  "contract_address": "0x39bff8613defd221b0410ed3d4e5c07512d55f2d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16183/large/Cubiex.jpg?1623218662"
+},
+{
+  "name": "Diamond Hands",
+  "symbol": "DHANDS",
+  "contract_address": "0x4552eafb35ec3aaca13b60c1edd593a61c021e37",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/16228/large/diamond_hands_logo.jpeg?1623345016"
+},
+{
+  "name": "Plum Token",
+  "symbol": "PLUM",
+  "contract_address": "0xde8ed8c9480ea12d050182aa99630b235de30f83",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/15239/large/spaces_-MYwxG-3f4C_llTJ9i8H_avatar-1619320882767.png?1620195558"
+},
+{
+  "name": "SafeHold",
+  "symbol": "SAFEHOLD",
+  "contract_address": "0xece59e58046179a762513727607629641190e421",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/16265/large/aiheTxp.png?1623539510"
+},
+{
+  "name": "HorizonDollar",
+  "symbol": "HZD",
+  "contract_address": "0xfefbbeebbeef18e3e4a2909f2b2729ca2fc61347",
+  "decimals": 4,
+  "logo_url": "https://assets.coingecko.com/coins/images/15234/large/hzd.png?1639045268"
+},
+{
+  "name": "OREO",
+  "symbol": "ORE",
+  "contract_address": "0x93d5a19a993d195cfc75acdd736a994428290a59",
+  "decimals": 10,
+  "logo_url": "https://assets.coingecko.com/coins/images/14450/large/78243580.png?1616136118"
+},
+{
+  "name": "PAPR",
+  "symbol": "PAPR",
+  "contract_address": "0x246475df8703be0c2ba2f8d0fb7248d95cc1ba26",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/16284/large/dollarstack_HQ.png?1623655125"
+},
+    {
   "name": "BGOV Token",
   "symbol": "BGOV",
   "contract_address": "0xf8e026dc4c0860771f691ecffbbdfe2fa51c77cf",
