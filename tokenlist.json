@@ -1,6 +1,90 @@
 {
   "tokens": [
     {
+  "name": "GreekMythology",
+  "symbol": "GMT",
+  "contract_address": "0x7a59ce9c4248f8b078fd96d9965e6e5dc8e6f0a8",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24042/large/uxr1prT.png?1646138792"
+},
+{
+  "name": "CZUSD",
+  "symbol": "CZUSD",
+  "contract_address": "0xe68b79e51bf826534ff37aa9cee71a3842ee9c70",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24048/large/logo_%282%29.png?1646197186"
+},
+{
+  "name": "Ethera Black",
+  "symbol": "ETB",
+  "contract_address": "0x9e6b8d2e2a7a8fa294aa715d59b58638c858a2a6",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24049/large/cmc.png?1646198428"
+},
+{
+  "name": "Ethera Black",
+  "symbol": "ETB",
+  "contract_address": "0x9e6b8d2e2a7a8fa294aa715d59b58638c858a2a6",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24049/large/cmc.png?1646198428"
+},
+{
+  "name": "Amazing doge",
+  "symbol": "Adoge",
+  "contract_address": "0x0ebc30459551858e81306d583025d12c7d795fa2",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24052/large/BrcaNXF.jpg?1646200479"
+},
+{
+  "name": "MetaXHunter",
+  "symbol": "XHunter",
+  "contract_address": "0xf6bae461ba4deb0039fb36006f1d0d7cf62d84e9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24053/large/200x200.png?1646200738"
+},
+{
+  "name": "Love Protocol",
+  "symbol": "LOVE",
+  "contract_address": "0x85d0791d875963bbeb81920984cf99c929da1757",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24060/large/8d04d5e8aac63542f4fedcf78ffd2d63.png?1646203813"
+},
+{
+  "name": "Era Token",
+  "symbol": "ERA",
+  "contract_address": "0x6f9f0c4ad9af7ebd61ac5a1d4e0f2227f7b0e5f9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24061/large/18483.png?1646204630"
+},
+{
+  "name": "Sgt.SHIB",
+  "symbol": "SGTS",
+  "contract_address": "0x694001c8f994d9af3d6755d411d4e2b327adf4d4",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24064/large/CMC-logo.png?1646205894"
+},
+{
+  "name": "REEFER TOKEN",
+  "symbol": "REEFER",
+  "contract_address": "0x701b57da9eff1d3f1ce4e90171f602ff16fc05a4",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24068/large/eKQpFKp3_400x400.jpg?1646206852"
+},
+{
+  "name": "Peace Doge",
+  "symbol": "PeaceDoge",
+  "contract_address": "0x02891418ca1c6c9b31c351b3e9a023ad63a1ebe7",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24070/large/vaYtOlC.png?1646209624"
+},
+{
+  "name": "Apocalypse",
+  "symbol": "APOC",
+  "contract_address": "0x700afd366d8cd7cc30f17e215f83beeaf92459df",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24073/large/download.png?1646213166"
+},
+    {
   "name": "CryptopiaLandDollar",
   "symbol": "CLD",
   "contract_address": "0xb0d9bd0937720956b3f1d4cab7d54ebab1dcba7f",
