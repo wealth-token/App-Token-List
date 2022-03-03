@@ -1,6 +1,55 @@
 {
   "tokens": [
     {
+  "name": "SOMDEJ",
+  "symbol": "SDC",
+  "contract_address": "0xae4ca3272792d8499575aefacdc299f0cbdc9270",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24078/large/6Lbpf0o.png?1646288850"
+},
+{
+  "name": "Lotus Capital",
+  "symbol": "LC",
+  "contract_address": "0xae59cbc550890bc621ef0749d7d841994986ec51",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24079/large/download.jpg?1646289069"
+},
+{
+  "name": "SEISMIC",
+  "symbol": "SCB",
+  "contract_address": "0x711a1c3c02031962a5d84ba546f37f0c183bb938",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24080/large/cmclogotrans.png?1646289179"
+},
+{
+  "name": "Hungry Bees",
+  "symbol": "HBEE",
+  "contract_address": "0x13b4b65e6ccb4e81b78ae237e5a7fac667c08b03",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24081/large/HBEE_200.png?1646289226"
+},
+{
+  "name": "heres",
+  "symbol": "HRS",
+  "contract_address": "0xb4e4e2ba82420b07847654b163c35e2d7774af38",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24082/large/EkAIccL.jpg?1646289417"
+},
+{
+  "name": "Valor",
+  "symbol": "V$",
+  "contract_address": "0x588ff59ee7ba59c33d1e891468a168770e0ae7d8",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24087/large/Valor-200.png?1646294611"
+},
+{
+  "name": "FORUS",
+  "symbol": "FORS",
+  "contract_address": "0xc54a4640907044283e8e4885090e205992b9813e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24090/large/Foruslogo.png?1646299099"
+},
+    {
   "name": "GreekMythology",
   "symbol": "GMT",
   "contract_address": "0x7a59ce9c4248f8b078fd96d9965e6e5dc8e6f0a8",
