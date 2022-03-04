@@ -1,6 +1,76 @@
 {
   "tokens": [
     {
+  "name": "Gateway Protocol",
+  "symbol": "GWP",
+  "contract_address": "0x794a23b6b8a543b58f995ba590979e0785b60eb2",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24093/large/gwp.PNG?1646353570"
+},
+{
+  "name": "DOG",
+  "symbol": "DOG",
+  "contract_address": "0xccd8a5f16d5a2477809a9956429ffc7be1bf6222",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24095/large/dogecoin.png?1646365551"
+},
+{
+  "name": "Arkarus",
+  "symbol": "AKS",
+  "contract_address": "0xcd06ba98e8ef76c9b6dc4b6e08cad90345d31c4a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24097/large/aks-coin-200.png?1646372193"
+},
+{
+  "name": "ChainEstateToken",
+  "symbol": "CHES",
+  "contract_address": "0x31832d10f68d3112d847bd924331f3d182d268c4",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24099/large/TokenLogo.png?1646372691"
+},
+{
+  "name": "Deblox GameS",
+  "symbol": "DGS",
+  "contract_address": "0x4ea636b489f51e2c332e2a6203bf3fcc0954a5f4",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24100/large/272017889_106112668638625_8328245986225138945_n.jpg?1646373677"
+},
+{
+  "name": "New TOXICgameNFT",
+  "symbol": "NTXC",
+  "contract_address": "0x83c806fa355f6433f777ceee07f62d8c8cc19850",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24101/large/download.png?1646375010"
+},
+{
+  "name": "YachtX",
+  "symbol": "YACHTX",
+  "contract_address": "0x0403d215067cd359f4a9dc124776d262d0896662",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/24105/large/yacht_logo_200.png?1646375930"
+},
+{
+  "name": "ARCToken",
+  "symbol": "ARC",
+  "contract_address": "0xf5ed7a3c2b6f3f41dafd1cb86cfa05cf29207d08",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/24107/large/Arc-Token-Logo.png?1646376409"
+},
+{
+  "name": "Metagames",
+  "symbol": "MGS",
+  "contract_address": "0x2943483d37c8e0fd4971e6c2942a268b6e93ba42",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24110/large/download.jpg?1646377523"
+},
+{
+  "name": "HE",
+  "symbol": "HE",
+  "contract_address": "0xf02ce494dd032886b0fcd238cbe3deaa3b1ed8e4",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24113/large/3fau.png?1646378874"
+},
+    {
   "name": "SOMDEJ",
   "symbol": "SDC",
   "contract_address": "0xae4ca3272792d8499575aefacdc299f0cbdc9270",
