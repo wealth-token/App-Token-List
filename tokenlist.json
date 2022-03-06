@@ -1,6 +1,34 @@
 {
   "tokens": [
     {
+  "name": "Nekocoin",
+  "symbol": "NEKOS",
+  "contract_address": "0x43ce64a4fba3c30c0164e935b0095862a67dc0c9",
+  "decimals": 0,
+  "logo_url": "https://assets.coingecko.com/coins/images/24122/large/sVQIaHgA_400x400.jpg?1646461535"
+},
+{
+  "name": "MarsDAO",
+  "symbol": "MDAO",
+  "contract_address": "0x60322971a672b81bcce5947706d22c19daecf6fb",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24126/large/mdao.png?1646466483"
+},
+{
+  "name": "Hold2Earn",
+  "symbol": "H2E",
+  "contract_address": "0x9d97c70fa2c9e7ad1e4e5d843d852772d63a2cea",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24127/large/h2e.png?1646467417"
+},
+{
+  "name": "DTNGToken",
+  "symbol": "DTNG",
+  "contract_address": "0x28337d750194c17769bf31324512ca4e217174fa",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/24128/large/dtng.png?1646467707"
+},
+    {
   "name": "Gateway Protocol",
   "symbol": "GWP",
   "contract_address": "0x794a23b6b8a543b58f995ba590979e0785b60eb2",
