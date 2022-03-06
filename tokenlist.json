@@ -1,6 +1,76 @@
 {
   "tokens": [
     {
+  "name": "KnightSwap Token",
+  "symbol": "KNIGHT",
+  "contract_address": "0xd23811058eb6e7967d9a00dc3886e75610c4abba",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24132/large/knightswap.png?1646539967"
+},
+{
+  "name": "Ricnatum",
+  "symbol": "RCNT",
+  "contract_address": "0xd676c90a3979e73dffb61f7a8608234781fc9cf8",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24135/large/RCNTToken.png?1646543963"
+},
+{
+  "name": "Meta House",
+  "symbol": "Meta House",
+  "contract_address": "0x825791bc83a377ba3931e8a56504a1eacaae0f76",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24140/large/YqBBH9V.png?1646548190"
+},
+{
+  "name": "Niob Token",
+  "symbol": "NIOB",
+  "contract_address": "0x5ac5e6af46ef285b3536833e65d245c49b608d9b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24141/large/niob.png?1646548221"
+},
+{
+  "name": "EDAC",
+  "symbol": "EDAC",
+  "contract_address": "0xdcde89001be4e77ed88ff0c39bffb23055659d21",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24142/large/200x200.png?1646548414"
+},
+{
+  "name": "MicroCreditToken",
+  "symbol": "MCT",
+  "contract_address": "0xe4ddbbd505132519361d55c449eacd153d6d7bce",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24144/large/1mct.png?1646559344"
+},
+{
+  "name": "Transplantcoin",
+  "symbol": "TPC",
+  "contract_address": "0xc4dab0f6b014e655a4600cf8f486d9ee2fce39be",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24145/large/tpc.png?1646559590"
+},
+{
+  "name": "Food Bank",
+  "symbol": "Food",
+  "contract_address": "0x6359f0d2004433d2a38b03dce8f966cc243f1da9",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24147/large/food.png?1646560102"
+},
+{
+  "name": "Flying Colours",
+  "symbol": "OURS",
+  "contract_address": "0xae4a8e2a265d799639dc2440437d401b07478e2d",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24154/large/ours.png?1646565458"
+},
+{
+  "name": "Zoro Inu",
+  "symbol": "ZORO",
+  "contract_address": "0x05ad901cf196cbdceab3f8e602a47aadb1a2e69d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24155/large/zoro.png?1646565848"
+},
+    {
   "name": "Nekocoin",
   "symbol": "NEKOS",
   "contract_address": "0x43ce64a4fba3c30c0164e935b0095862a67dc0c9",
