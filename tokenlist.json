@@ -1,6 +1,55 @@
 {
   "tokens": [
     {
+  "name": "CyBloc Battery Token",
+  "symbol": "CBT",
+  "contract_address": "0x7c73967dc8c804ea028247f5a953052f0cd5fd58",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24167/large/CBT_200x200.png?1646714918"
+},
+{
+  "name": "CyBloc Battery Token",
+  "symbol": "CBT",
+  "contract_address": "0x7c73967dc8c804ea028247f5a953052f0cd5fd58",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24167/large/CBT_200x200.png?1646714918"
+},
+{
+  "name": "PayBolt",
+  "symbol": "PAY",
+  "contract_address": "0xe580074a10360404af3abfe2d524d5806d993ea3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24175/large/logo.png?1646748269"
+},
+{
+  "name": "Tiny Coin",
+  "symbol": "TINC",
+  "contract_address": "0x05ad6e30a855be07afa57e08a4f30d00810a402e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24176/large/IMG_20220307_100854_672.png?1646748436"
+},
+{
+  "name": "Duckie Land Multi Metaverse",
+  "symbol": "MMETA",
+  "contract_address": "0x7a9c8d33963aecca9a821802adfaf5bd9392351f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24186/large/MMETA_200X200.png?1646808063"
+},
+{
+  "name": "WohpeDao",
+  "symbol": "PEACE",
+  "contract_address": "0x86fdb97dfacd6ddd9c397dc204712a43b1ee6150",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24187/large/aai-ZIy-IJ-400x400.jpg?1646808933"
+},
+{
+  "name": "Metaverse ALL BEST ICO",
+  "symbol": "METAALLBI",
+  "contract_address": "0xfea237201c3fdfe0945f7abe44eeac3f9714a2e0",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24199/large/allbestico256x256.png?1646834336"
+},
+    {
   "name": "KnightSwap Token",
   "symbol": "KNIGHT",
   "contract_address": "0xd23811058eb6e7967d9a00dc3886e75610c4abba",
