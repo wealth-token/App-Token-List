@@ -1,6 +1,55 @@
 {
   "tokens": [
     {
+  "name": "Purfect Network",
+  "symbol": "PUR",
+  "contract_address": "0xa854dbb7d0f9a4c10ca74ff21fd9cf12d6d8a99f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24195/large/502ed1a17c822d5678fcb7df1d911d3b.png?1646831736"
+},
+{
+  "name": "MetaRoyale",
+  "symbol": "MRVR",
+  "contract_address": "0xc6f6d16c72f705ec983ed932604068872dc7f889",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24197/large/meta-logo200x200.png?1646833878"
+},
+{
+  "name": "Paragen",
+  "symbol": "RGEN",
+  "contract_address": "0x25382fb31e4b22e0ea09cb0761863df5ad97ed72",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24198/large/TH-Y4qWF_400x400.jpg?1646863203"
+},
+{
+  "name": "Shinji the Zombie Slayer",
+  "symbol": "SHINJIZ",
+  "contract_address": "0x9b3cc90af60961271fc1d78ed6549a517d28ec78",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24200/large/logo_%281%29.png?1646834908"
+},
+{
+  "name": "Open Data Protocol",
+  "symbol": "OPEN",
+  "contract_address": "0xcbc26971f635784b187597ac17a9c1d9a7f1401e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24204/large/b6a59249574a268474796506a19373a4.png?1646835992"
+},
+{
+  "name": "METAZ",
+  "symbol": "$METAZ",
+  "contract_address": "0xdd26a25f872d87da9f0de9652085bcc8c1923ddc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24206/large/IMG-20220305-172915-050.jpg?1646836470"
+},
+{
+  "name": "GrimaceCoin",
+  "symbol": "Grimace",
+  "contract_address": "0xc6759a4fc56b3ce9734035a56b36e8637c45b77e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24207/large/ustF4Y_V_400x400.jpg?1646863015"
+},
+    {
   "name": "CyBloc Battery Token",
   "symbol": "CBT",
   "contract_address": "0x7c73967dc8c804ea028247f5a953052f0cd5fd58",
