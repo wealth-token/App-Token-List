@@ -1,6 +1,83 @@
 {
   "tokens": [
     {
+  "name": "Elonmoon",
+  "symbol": "Elonmoon",
+  "contract_address": "0x03a3cda7f684db91536e5b36dc8e9077dc451081",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24216/large/icon200.png?1646917189"
+},
+{
+  "name": "COVID Doge",
+  "symbol": "COVID Doge",
+  "contract_address": "0xae1f20ca661ec552c0664a73ad5e5963824f92e1",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24217/large/oyFQ8DCV_400x400.jpg?1646917487"
+},
+{
+  "name": "METAROBOX",
+  "symbol": "RBX",
+  "contract_address": "0xe833dc9b5a21dabc3ed8559858caa92279ac54dc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24218/large/4oUHRQIg_400x400.jpg?1646918012"
+},
+{
+  "name": "METARUN",
+  "symbol": "MRUN",
+  "contract_address": "0xca0d640a401406f3405b4c252a5d0c4d17f38ebb",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24219/large/GDgQSjgZ_400x400.jpg?1646918963"
+},
+{
+  "name": "Polars",
+  "symbol": "POL",
+  "contract_address": "0x273a4ffceb31b8473d51051ad2a2edbb7ac8ce02",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24220/large/alpha_logo_polars.png?1646919342"
+},
+{
+  "name": "inheritance Art (iAI)",
+  "symbol": "iAI",
+  "contract_address": "0xe495b7155fbd040065491092b02893c8e17629ed",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24221/large/iAI.jpg?1646919582"
+},
+{
+  "name": "ShineMine",
+  "symbol": "SHINE",
+  "contract_address": "0xbb78cd9d658201119a78395de350e3f531c12273",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24222/large/Shine_favicon_200x200.png?1646919734"
+},
+{
+  "name": "MYTONAVERSE",
+  "symbol": "TONA",
+  "contract_address": "0x558ac206f574b514a1efd370e3ad606c1c420d7c",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/24223/large/200x200.png?1646920051"
+},
+{
+  "name": "DX SPOT",
+  "symbol": "DXS",
+  "contract_address": "0xb0df5519f460e96117c12ea667557b161866189c",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/24224/large/DX-ICON.png?1646920676"
+},
+{
+  "name": "LESLAR Metaverse",
+  "symbol": "LESLAR",
+  "contract_address": "0x0f2420fc7ce2446c35cd37f514486aa88d703bc3",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24230/large/download_%2820%29.png?1646968941"
+},
+{
+  "name": "EarnX",
+  "symbol": "EarnX",
+  "contract_address": "0x0f76142d83ddef359753cca33647cc4dcee1c6d1",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24234/large/earnx.PNG?1646990052"
+},
+    {
   "name": "Purfect Network",
   "symbol": "PUR",
   "contract_address": "0xa854dbb7d0f9a4c10ca74ff21fd9cf12d6d8a99f",
