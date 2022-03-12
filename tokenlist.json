@@ -1,6 +1,69 @@
 {
   "tokens": [
     {
+  "name": "SATIN",
+  "symbol": "SATIN",
+  "contract_address": "0xEB76fA2975deec9750BfCEb84246315945719357",
+  "decimals": 18,
+  "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xEB76fA2975deec9750BfCEb84246315945719357/logo.png"
+},
+{
+  "name": "Lawtoken",
+  "symbol": "LAW",
+  "contract_address": "0xB84aA25ae8e33962de303b21aF3d36d4f75D9eA9",
+  "decimals": 18,
+  "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xB84aA25ae8e33962de303b21aF3d36d4f75D9eA9/logo.png"
+},
+{
+  "name": "NEWO Coin",
+  "symbol": "NEWO",
+  "contract_address": "0x15d57ce57ab752a069fb6fc76ff431812fd3ada3",
+  "decimals": 16,
+  "logo_url": "https://assets.coingecko.com/coins/images/24236/large/newo.png?1647077641"
+},
+{
+  "name": "METAVERSE LAB",
+  "symbol": "MVP",
+  "contract_address": "0x57e2a2ff2622cacec775cf8d4c2848aa9b31528c",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24238/large/mvp.png?1647087533"
+},
+{
+  "name": "Unitech",
+  "symbol": "UTC",
+  "contract_address": "0x52171ffa4ceda60ff9795e1f111adb14c3d7025e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24240/large/utc.png?1647088925"
+},
+{
+  "name": "Y-5 FINANCE",
+  "symbol": "Y-5",
+  "contract_address": "0xcbd8aece0c920eef3f215ad4e7319052bd8eaa74",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24243/large/y-5.png?1647091379"
+},
+{
+  "name": "Space Ore",
+  "symbol": "SPO",
+  "contract_address": "0x3b56a620d8a4f68049964cffe674da9174193bc2",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24244/large/spo.png?1647092098"
+},
+{
+  "name": "JoinCoin",
+  "symbol": "JOIN",
+  "contract_address": "0x003771227d08ac9961b9160b1219fef136546e90",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24245/large/join.png?1647093438"
+},
+{
+  "name": "Rumble Gaming",
+  "symbol": "RMBL",
+  "contract_address": "0xba8329583e5c369407e57cef0b581c6f25510567",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24248/large/rmbl.png?1647095786"
+},
+    {
   "name": "Elonmoon",
   "symbol": "Elonmoon",
   "contract_address": "0x03a3cda7f684db91536e5b36dc8e9077dc451081",
