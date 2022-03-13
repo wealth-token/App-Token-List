@@ -1,6 +1,48 @@
 {
   "tokens": [
     {
+  "name": "DiveWallet Token",
+  "symbol": "DWT",
+  "contract_address": "0x4b7d697635e6b9965d13e0655f538149de425f4e",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24252/large/dwt.png?1647153696"
+},
+{
+  "name": "PEAR DAO",
+  "symbol": "PEX",
+  "contract_address": "0x6a0b66710567b6beb81a71f7e9466450a91a384b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24253/large/pex.png?1647154069"
+},
+{
+  "name": "LoopNetwork",
+  "symbol": "LOOP",
+  "contract_address": "0xce186ad6430e2fe494a22c9edbd4c68794a28b35",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24259/large/loop.png?1647170665"
+},
+{
+  "name": "HydraMeta",
+  "symbol": "HydraMeta",
+  "contract_address": "0xde97d24fe6318ce1bcca5af65454022fd3c536cb",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/24266/large/hdm.png?1647172434"
+},
+{
+  "name": "ETHFan Burn",
+  "symbol": "$EFB",
+  "contract_address": "0x002d3c280f719c4b0444680a8c4b1785b6cc2a59",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24268/large/efb.png?1647174388"
+},
+{
+  "name": "Pudgy Pups Club",
+  "symbol": "Pups",
+  "contract_address": "0x737de48d5b5f775b4014febec009ef0cb1182f59",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24269/large/pups.png?1647174865"
+},
+    {
   "name": "SATIN",
   "symbol": "SATIN",
   "contract_address": "0xEB76fA2975deec9750BfCEb84246315945719357",
