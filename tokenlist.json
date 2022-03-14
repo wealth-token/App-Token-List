@@ -1,6 +1,55 @@
 {
   "tokens": [
     {
+  "name": "TraDAO Token",
+  "symbol": "TOD",
+  "contract_address": "0x21d5fa5ecf2605c0e835ae054af9bba0468e5951",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24270/large/photo_2022-03-02_23-11-22.jpg?1647175450"
+},
+{
+  "name": "Cherish Credit",
+  "symbol": "CHC",
+  "contract_address": "0xbcd192f38457619fbdef609a194e8ab467cc3a58",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/24274/large/logo-svg.png?1647180153"
+},
+{
+  "name": "Ring",
+  "symbol": "RING",
+  "contract_address": "0x021988d2c89b1a9ff56641b2f247942358ff05c9",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/24275/large/b98GNkOS_400x400.png?1647209734"
+},
+{
+  "name": "Shield Protocol",
+  "symbol": "SHIELD",
+  "contract_address": "0x00f97c17f4dc4f3bfd2dd9ce5e67f3a339a8a261",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24286/large/M_x-9DyT_400x400.png?1647245640"
+},
+{
+  "name": "VANCAT Token",
+  "symbol": "VANCAT",
+  "contract_address": "0x0da1774e58ed28ff9749340f116055f8d836a7c8",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24287/large/RTXxbEj__400x400.jpg?1647246056"
+},
+{
+  "name": "WEB3LAND",
+  "symbol": "WEB3",
+  "contract_address": "0xed93d534fa9d14218b001fc48127720bcae66f16",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24295/large/Logo-200x200.png?1647265978"
+},
+{
+  "name": "RUBY",
+  "symbol": "RUBY",
+  "contract_address": "0xf7722aa0714096f1fb5ef83e6041cebb4d58a08e",
+  "decimals": 12,
+  "logo_url": "https://assets.coingecko.com/coins/images/24301/large/v7j5bIgX_400x400.jpg?1647269369"
+},
+    {
   "name": "DiveWallet Token",
   "symbol": "DWT",
   "contract_address": "0x4b7d697635e6b9965d13e0655f538149de425f4e",
