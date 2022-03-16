@@ -1,6 +1,69 @@
 {
   "tokens": [
     {
+  "name": "Wrapped SOW",
+  "symbol": "WSOW",
+  "contract_address": "0xe70d287aad130e2cee520e75d12c6efa4f1a377d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24345/large/logo-yellow.png?1647415037"
+},
+{
+  "name": "Art Rino",
+  "symbol": "ArtRino",
+  "contract_address": "0xfb2f0041441ed3b96a0972a7f2668f3cbcac7aaa",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24346/large/Artrino.png?1647418160"
+},
+{
+  "name": "Dr. Skull",
+  "symbol": "DRSL",
+  "contract_address": "0x17922598458a7f29e3ce2bf088dff2b1b474771a",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/24348/large/drskull-logo.png?1647429026"
+},
+{
+  "name": "Vince",
+  "symbol": "VCE",
+  "contract_address": "0xae936f3f89d2e8a86163f6fdbfef8ae6b2ba6437",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24349/large/20220315-164422.png?1647433218"
+},
+{
+  "name": "Battle for Life",
+  "symbol": "BFL",
+  "contract_address": "0x22849bd1443ef38f7a54e6fd4c69ff3e84be0c96",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24350/large/UwVKomW2_400x400.jpg?1647433405"
+},
+{
+  "name": "AceStarter",
+  "symbol": "ASTAR",
+  "contract_address": "0x9eeddb9da3bcbfdcfbf075441a9e14c6a8899999",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24355/large/FB_IMG_1643688458160.jpg?1647434430"
+},
+{
+  "name": "Frz solar system",
+  "symbol": "Frzss",
+  "contract_address": "0xac41fb8013c0b63588fc63997785a5d79e73eb28",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24368/large/1100x800_cropped.jpg?1647441326"
+},
+{
+  "name": "MetaTariff",
+  "symbol": "RIFF",
+  "contract_address": "0x0c691ed26252d4cf65eb7c9b013de3372d79e3fd",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24370/large/I3DrbUx1_400x400.jpg?1647442908"
+},
+{
+  "name": "Space Corsair Key",
+  "symbol": "SCK",
+  "contract_address": "0x227a3ef4d41d0215123f3197faa087bf71d2236a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24371/large/sck.png?1647443091"
+},
+    {
   "name": "LoopSwap",
   "symbol": "LSWAP",
   "contract_address": "0x3f8a14f5a3ee2f4a3ed61ccf5eea3c9535c090c8",
