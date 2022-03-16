@@ -1,6 +1,132 @@
 {
   "tokens": [
     {
+  "name": "LoopSwap",
+  "symbol": "LSWAP",
+  "contract_address": "0x3f8a14f5a3ee2f4a3ed61ccf5eea3c9535c090c8",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24300/large/5D7QqYm.png?1647269009"
+},
+{
+  "name": "Souni Token",
+  "symbol": "SON",
+  "contract_address": "0x3b0e967ce7712ec68131a809db4f78ce9490e779",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24297/large/WcOQ_Ees_400x400.jpg?1647267814"
+},
+{
+  "name": "MetaGameSpace",
+  "symbol": "METAGS",
+  "contract_address": "0xbb77d0a1181e38a0374dc6891e2847c2b61b3545",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24294/large/DdvFfVw.jpeg?1647265406"
+},
+{
+  "name": "DefiHorse",
+  "symbol": "DFH",
+  "contract_address": "0x5fdab5bdbad5277b383b3482d085f4bfef68828c",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24293/large/uxwvJpWa_400x400.jpg?1647265261"
+},
+{
+  "name": "Covid 19 Recovery Token",
+  "symbol": "COVDR",
+  "contract_address": "0xdb8afb917a2d4848ee5b3bed7f6c0bab0555427d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24291/large/wgJQPGch_400x400.jpg?1647263791"
+},
+{
+  "name": "SecretWorld",
+  "symbol": "SSD",
+  "contract_address": "0xd87dc2841aab1ba556f4823eb3e5d35abb9b9dc9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24302/large/logo-32-2.png?1647269522"
+},
+{
+  "name": "Leprechaun",
+  "symbol": "LEP",
+  "contract_address": "0x907eb72beb08c037ab032c64e2571488a210067e",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24307/large/l7Xnx2t__400x400.png?1647332792"
+},
+{
+  "name": "Coin Fast Alert V2",
+  "symbol": "CFA",
+  "contract_address": "0xd6d1e4d33ccac0707771e317bc3a89dbe37d8cdf",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24308/large/coinfastalert_32.png?1647334225"
+},
+{
+  "name": "DPAD Finance",
+  "symbol": "DPAD",
+  "contract_address": "0x4dcaaa68170053afbbde15774931adba09272a55",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/24312/large/0vrp38DQ_400x400.jpg?1647352973"
+},
+{
+  "name": "Infinity Arena Zeronium",
+  "symbol": "INAZ",
+  "contract_address": "0x6e551e88d0ed3ebd56f6b1f42b03bf9e4d68c47f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24315/large/0tMkBSx9_400x400.jpg?1647353638"
+},
+{
+  "name": "OpenStream World",
+  "symbol": "OSW",
+  "contract_address": "0xa21b0f29bc488df22bbd76b9fda8539ba9c11fdc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24316/large/logo-cmc.png?1647353771"
+},
+{
+  "name": "FARM SKYLINES TOKEN",
+  "symbol": "FSK",
+  "contract_address": "0x55e63ec9f5fb21372235fc88b9f6d6ec78aeec21",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24317/large/qqaS9RUi_400x400.jpg?1647355244"
+},
+{
+  "name": "BEE INU",
+  "symbol": "BEEINU",
+  "contract_address": "0xba049d49e6d73b463b6ae482ecf2334aff84b83b",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24318/large/200.png?1647355382"
+},
+{
+  "name": "Arya Token",
+  "symbol": "ARYA",
+  "contract_address": "0xf0b416b746f90c42604b7ebe63eba8cd5f017512",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24321/large/arya-coin-01.png?1647356206"
+},
+{
+  "name": "Crypto Stake Token",
+  "symbol": "CST",
+  "contract_address": "0x3075829daf022ece5004237db3dd42547c308b5e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24322/large/cs_logo-150.png?1647356813"
+},
+{
+  "name": "Floki Verse",
+  "symbol": "FlokiV",
+  "contract_address": "0xfc4427af0a329312fba0851f2ef0c7db08aa100f",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24335/large/200200logo.png?1647359780"
+},
+{
+  "name": "ChickenNuggetCoin",
+  "symbol": "NUGGET",
+  "contract_address": "0x9519e42a2a150be93b2cd57b37f8724b62aa1bb9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24337/large/kcllWd9n_400x400.jpg?1647362677"
+},
+{
+  "name": "ContinuumFinance",
+  "symbol": "CTN",
+  "contract_address": "0x4861ba0ce919fee66b41c85a08a7476557914275",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24338/large/LMWqfjP6_400x400.png?1647362901"
+},
+    {
   "name": "TraDAO Token",
   "symbol": "TOD",
   "contract_address": "0x21d5fa5ecf2605c0e835ae054af9bba0468e5951",
