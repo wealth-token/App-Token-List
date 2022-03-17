@@ -1,6 +1,76 @@
 {
   "tokens": [
     {
+  "name": "Mooner Token",
+  "symbol": "MNR",
+  "contract_address": "0xcd03f8a59252f317a679eddb5315150f40d06e5e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24391/large/logo-200x200.png?1647518867"
+},
+{
+  "name": "Atlantis",
+  "symbol": "ATLS",
+  "contract_address": "0xc7ddf690942b74171f7e3763baf260b686516bc0",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24392/large/pIyyPjAw_400x400.jpg?1647520491"
+},
+{
+  "name": "Doges Spirited Howling Castle Game",
+  "symbol": "MIYAZAKI",
+  "contract_address": "0xe7e3cf5249d7d1a1f43bbdfd08da9ff536e0695a",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24398/large/M5d_Rb5p_400x400.jpg?1647523613"
+},
+{
+  "name": "MonoMoney",
+  "symbol": "MONO",
+  "contract_address": "0x7317da9c15303bfb434690586c3373b94fb2dd31",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24399/large/ToL6DsC7_400x400.jpg?1647528782"
+},
+{
+  "name": "SpritzMoon Crypto Token",
+  "symbol": "SpritzMoon",
+  "contract_address": "0x6fc39ac154cfd20f1951a2823abab7ec471b783a",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24401/large/SpritzMoon_Logo_200x200-ts1627473125.png?1647529710"
+},
+{
+  "name": "MJACKSWAP",
+  "symbol": "MJACK",
+  "contract_address": "0x4dad73719c4f4d5197b89c19460b1171d800097d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24402/large/m-logo.png?1647529842"
+},
+{
+  "name": "Tresor Finance",
+  "symbol": "TRESOR",
+  "contract_address": "0x7c08e27319119e2a0400c7ad60a21515e12dd069",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/24404/large/PtcrJEa.png?1647530171"
+},
+{
+  "name": "CryptoZeroFi",
+  "symbol": "ZERI",
+  "contract_address": "0x907678ec33d33970e62484297f2321b55d1921a3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24406/large/mYGuqXz.png?1647530630"
+},
+{
+  "name": "Salmonation",
+  "symbol": "SUI",
+  "contract_address": "0x4841181ae4079072ebe83a29b718388a387169e3",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24408/large/logo-sui-200.png?1647531006"
+},
+{
+  "name": "Class Coin",
+  "symbol": "CLASS",
+  "contract_address": "0xe57edc546ee99f17a5d6e32c2457b4569ecd40f8",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24409/large/271156749_115119737699793_3761439985639056804_n.png?1647531368"
+},
+    {
   "name": "Wrapped SOW",
   "symbol": "WSOW",
   "contract_address": "0xe70d287aad130e2cee520e75d12c6efa4f1a377d",
