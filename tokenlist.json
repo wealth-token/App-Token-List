@@ -1,6 +1,48 @@
 {
   "tokens": [
     {
+  "name": "RevolutionGames",
+  "symbol": "RVLNG",
+  "contract_address": "0x8c11c352731fcec7ea9d16357b69d91c13743dd1",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24420/large/XQokIAeH_400x400.jpg?1647612029"
+},
+{
+  "name": "Matic Launchpad",
+  "symbol": "MATICPAD",
+  "contract_address": "0x1e7e0efb87e609b87f12f1cea1dac48569da2328",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24421/large/ILN63o4w_400x400.jpg?1647612315"
+},
+{
+  "name": "Bami",
+  "symbol": "BAMI",
+  "contract_address": "0xe2d3486f46efbd4199ea087e9e466dcc35ee0248",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24425/large/token_bami_200x200.png?1647657414"
+},
+{
+  "name": "NFT ALL BEST ICO",
+  "symbol": "NFTALLBI",
+  "contract_address": "0x374fe834fa8c72875bf49ab015026a31e20e1763",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24428/large/allbestico256x256.png?1647658745"
+},
+{
+  "name": "iK Coin",
+  "symbol": "iKC",
+  "contract_address": "0xe4b57f8bb37b4b1fa47c991178809151c25d6ff2",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24465/large/Ik-golden.png?1647681037"
+},
+{
+  "name": "ADAMoracle Token",
+  "symbol": "ADAM",
+  "contract_address": "0x59802ac95f2399c929a096171c1bee93c27dae90",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/24466/large/YLMk5DkU_400x400.jpg?1647681286"
+},
+    {
   "name": "Mooner Token",
   "symbol": "MNR",
   "contract_address": "0xcd03f8a59252f317a679eddb5315150f40d06e5e",
