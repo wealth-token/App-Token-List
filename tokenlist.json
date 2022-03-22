@@ -1,6 +1,76 @@
 {
   "tokens": [
     {
+  "name": "VEKTOR",
+  "symbol": "VEKTOR",
+  "contract_address": "0xf2da079867785018e6d823dd0ff332f05aafe485",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24470/large/vektor.png?1647768446"
+},
+{
+  "name": "Calvex",
+  "symbol": "CLVX",
+  "contract_address": "0x30601d903b0d12ee26d27bd6607caa72c205cf7a",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24473/large/clvx.png?1647771026"
+},
+{
+  "name": "SEBA",
+  "symbol": "SEBA",
+  "contract_address": "0xd15d3baf3f40988810c5f9da54394ffb5246ded6",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24475/large/seba.png?1647775173"
+},
+{
+  "name": "SpaceMeta",
+  "symbol": "SPMETA",
+  "contract_address": "0xb84f8f093e4e6e7e672317fb06694c2406f07180",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24477/large/spmeta.png?1647776066"
+},
+{
+  "name": "Web 3 Development",
+  "symbol": "3WEB",
+  "contract_address": "0x2e4092b0f6b2f2a3acb56f8f9d597cfcc0fac60b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24478/large/3web.png?1647776759"
+},
+{
+  "name": "Marsupilamii",
+  "symbol": "MARS",
+  "contract_address": "0x6e53e24f0f7b273d27d92a909a30762d5734b649",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24480/large/mars.png?1647777582"
+},
+{
+  "name": "MYSTERY",
+  "symbol": "MYST",
+  "contract_address": "0xcdcaef3ce3a138c47ddb0b04a9b04649c13d50ed",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24481/large/myst.png?1647781433"
+},
+{
+  "name": "EverSAFU",
+  "symbol": "EverSAFU",
+  "contract_address": "0x40ed092304dbae1bcf1858eb24e1b14141126acb",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/24494/large/MtFSM75.png?1647867933"
+},
+{
+  "name": "PLOT",
+  "symbol": "PLOT",
+  "contract_address": "0x3e63e9c8f2297e3c027f8444b4591e2583d8780b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24495/large/3MgvCVi.jpeg?1647868123"
+},
+{
+  "name": "Snake Rinium",
+  "symbol": "RIM",
+  "contract_address": "0x9fe70801c3b26f466d7e7b884659e88c7492a126",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24497/large/200pxRIM.png?1647868662"
+},
+    {
   "name": "RevolutionGames",
   "symbol": "RVLNG",
   "contract_address": "0x8c11c352731fcec7ea9d16357b69d91c13743dd1",
