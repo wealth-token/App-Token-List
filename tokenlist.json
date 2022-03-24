@@ -1,6 +1,125 @@
 {
   "tokens": [
     {
+  "name": "FantasyToken",
+  "symbol": "FTS",
+  "contract_address": "0x0e804a8b4dc7d8afc9d38ce852512968881d7e10",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24517/large/logo200.png?1647961130"
+},
+{
+  "name": "FlyApy",
+  "symbol": "FLY",
+  "contract_address": "0x36b4a286068e43e18d58c9a594734a0b55f9c6fd",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/24527/large/Design-uten-navn-14.png?1648038969"
+},
+{
+  "name": "METAYOKA SPICE",
+  "symbol": "SPICE",
+  "contract_address": "0x747fd7fb58a0437b13cbde14fdfc094397349cdf",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24528/large/linbxp.png?1648039140"
+},
+{
+  "name": "META-UTOPIA LAND",
+  "symbol": "LAND",
+  "contract_address": "0x9131066022b909c65edd1aaf7ff213dacf4e86d0",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24531/large/_dtwFaYK_400x400.jpg?1648041331"
+},
+{
+  "name": "Buccaneer",
+  "symbol": "BUC",
+  "contract_address": "0x831467b7b6bf9c705dc87899d48b57ee55c8d5cc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24532/large/oK9gWl6l_400x400.jpg?1648111770"
+},
+{
+  "name": "Forge Finance",
+  "symbol": "FORGE",
+  "contract_address": "0x5138868ed1814be113227b8c6025cdc46d9d1d16",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24533/large/io0E0FB2_400x400.jpg?1648043609"
+},
+{
+  "name": "WingsProtocol",
+  "symbol": "XWIP",
+  "contract_address": "0xc0fe33b654d13af5a72c47dc5a370674ba85b3e6",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24534/large/sfQNm6Fl_400x400.jpg?1648044300"
+},
+{
+  "name": "SafuTitano",
+  "symbol": "SAFTI",
+  "contract_address": "0x84952dd90cdc57170b13d2291a8afcedc8f97c71",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/24535/large/vHQ6BpuO_400x400.jpg?1648050874"
+},
+{
+  "name": "CryptoMines Reborn",
+  "symbol": "CRUX",
+  "contract_address": "0xe0191fefdd0d2b39b1a2e4e029ccda8a481b7995",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24538/large/Webp.net-resizeimage_%281%29.png?1648072028"
+},
+{
+  "name": "Vision",
+  "symbol": "VS",
+  "contract_address": "0xcd76bc49a69bcdc5222d81c18d4a04dc8a387297",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/24542/large/W0jkQVDm_400x400.png?1648100235"
+},
+{
+  "name": "MetaBots",
+  "symbol": "MTB",
+  "contract_address": "0x09861d8c3c1350699f8522253e5485f751d6fa78",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24544/large/Logo-schetsen-22-1.png?1648126602"
+},
+{
+  "name": "Virtus Finance",
+  "symbol": "VAP",
+  "contract_address": "0xe96c3cc84947280a26aa70cccdc5c4ba717ae395",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/24549/large/rsz-dark-copy.png?1648132647"
+},
+{
+  "name": "The Web3 Project",
+  "symbol": "WEB3",
+  "contract_address": "0x333fd139caef6aa31056cc905987b77b1044d259",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24550/large/9sh_JR3p_400x400.jpg?1648133551"
+},
+{
+  "name": "ADAL Token",
+  "symbol": "ADAL",
+  "contract_address": "0xae1107fc7cef1294f09185ac475c9886527dcd8a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24554/large/19012.png?1648134755"
+},
+{
+  "name": "peace",
+  "symbol": "peace",
+  "contract_address": "0x85973c97919c999e5d3d8832290152a3acdf8a6e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24555/large/WechatIMG444.jpeg?1648135874"
+},
+{
+  "name": "Adroverse Token",
+  "symbol": "ADR",
+  "contract_address": "0x36f1f32c728c3f330409ec1f0928fa3ab3c8a76f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24556/large/92mtj657_400x400.jpg?1648136168"
+},
+{
+  "name": "AAptitude",
+  "symbol": "AAPT",
+  "contract_address": "0x2a6f8e3a8fe92849b08ca82f4f323dd43029b33d",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24557/large/aaptitude.jpg?1648145736"
+},
+    {
   "name": "VEKTOR",
   "symbol": "VEKTOR",
   "contract_address": "0xf2da079867785018e6d823dd0ff332f05aafe485",
