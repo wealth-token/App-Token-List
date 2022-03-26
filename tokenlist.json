@@ -1,6 +1,111 @@
 {
   "tokens": [
     {
+  "name": "MetaGox Decentraland",
+  "symbol": "MTX",
+  "contract_address": "0x14737b458c1582331897da2f37f208e15feaf5a7",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24569/large/e6JiPEJw_400x400.jpg?1648193191"
+},
+{
+  "name": "PeaSwap Token",
+  "symbol": "PEA",
+  "contract_address": "0xb8984bfa9989e54a81ab4d50d76d1cda166b054e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24572/large/Peaswap.png?1648196276"
+},
+{
+  "name": "MWT",
+  "symbol": "MWT",
+  "contract_address": "0x695247c0aebd3345eb2280acc3c991eddf18d5cc",
+  "decimals": 0,
+  "logo_url": "https://assets.coingecko.com/coins/images/24573/large/bSZ60k0b_400x400.jpg?1648196712"
+},
+{
+  "name": "Pups Milk",
+  "symbol": "Milk",
+  "contract_address": "0x3cd88b61ea466b1c636302668bcbe2c033198c42",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24575/large/IAb6lPe_HJ4jFCeeTZ84HyaQWwRc6x9BvZyQTMxvqqZgLMbbHDZZa1P23Ds9odv6Sol6gIuWJmd4HRi0jc5ADCo6mrl3w3xyzqO8gsoy2fIh39LnonWwqrZ1gMzMc-66cvISiFyO7n2HKM4BCufHnIZd25039CaIdgE0gzqKsgsCOSoKzp-QXJrOqR_IiCqAOSnTESW4E1vhChdLK23WqEm.jpg?1648198171"
+},
+{
+  "name": "ChainCorn",
+  "symbol": "CORNX",
+  "contract_address": "0x1d9a278a0f84cb13cebf154faf766a98f63b7b12",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24576/large/logo200x200.png?1648198552"
+},
+{
+  "name": "ETH SHIBA",
+  "symbol": "$ETHSHIB",
+  "contract_address": "0x69d10c8bd0de1a9345afa36819490d8bbce0e5a3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24579/large/ETH-SHIBA-200x200-1.png?1648207935"
+},
+{
+  "name": "Web3 ALL BEST ICO",
+  "symbol": "WEB3ALLBI",
+  "contract_address": "0xec3297c5d521feeb058320b05b823a4510d0c06e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24580/large/allbestico256x256.png?1648213010"
+},
+{
+  "name": "SpacePi Token",
+  "symbol": "SpacePi",
+  "contract_address": "0x69b14e8d3cebfdd8196bfe530954a0c226e5008e",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24581/large/SpacePilogo200x200.png?1648213650"
+},
+{
+  "name": "UP Token",
+  "symbol": "UP",
+  "contract_address": "0xbac79e308bada146de29f56e066a021cffa00375",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24582/large/Mfhky3-F_400x400.jpg?1648216750"
+},
+{
+  "name": "METAQ Token",
+  "symbol": "METAQ",
+  "contract_address": "0x2824d8ecded273e296ca57d583d80614093c87d4",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/24584/large/PoQiwrce8gcDf9KxXDk_fU9WEP7ljoPRJnYounF7pgJi-_Jnt3AFXQqB1lLtKDiezguUYEGvntBGCKMCB22Cecf5AcU9bbFV38Sdihravj6x65pVunbXmrl39hyfqQAUyjum_l5KqJgUcsTtLJTBqdpLiAmcg_igURSkEaef_APdfkYepHZ0tJh8TglKgCzLpAle_F-aNMfmAX4.jpg?1648218007"
+},
+{
+  "name": "Two Monkey Juice Bar",
+  "symbol": "TMON",
+  "contract_address": "0x2cd24aaf0aeabde7f830d6719eeb8eb3837712de",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24585/large/Gm_8ewah_400x400.jpg?1648218167"
+},
+{
+  "name": "Horde",
+  "symbol": "HORDE",
+  "contract_address": "0x0069ff45ea9f7c28e0a2dedb9bef8144af8131bc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24586/large/cKqzagS.png?1648218405"
+},
+{
+  "name": "Freemoon",
+  "symbol": "FREEMOON",
+  "contract_address": "0x0725384edd4637f7c26de9cd3c086c14071688d5",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24587/large/fhtTKOTA_400x400.jpg?1648218807"
+},
+{
+  "name": "H2O DAO",
+  "symbol": "H2O",
+  "contract_address": "0xaf3287cae99c982586c07401c0d911bf7de6cd82",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24588/large/M5-QvqZ8_400x400.jpg?1648226430"
+},
+{
+  "name": "Hyss",
+  "symbol": "HYSS",
+  "contract_address": "0xe745c551389556f2ba42bdd27eecbad326b7e65b",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/24589/large/wbQp6YlL_400x400.jpg?1648228036"
+},
+    {
   "name": "FantasyToken",
   "symbol": "FTS",
   "contract_address": "0x0e804a8b4dc7d8afc9d38ce852512968881d7e10",
