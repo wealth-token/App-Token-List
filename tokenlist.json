@@ -1,6 +1,272 @@
 {
   "tokens": [
     {
+  "name": "Moonseer",
+  "symbol": "Moon",
+  "contract_address": "0x747deecd8f34a9036df50c8c6b9858621d226f05",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24596/large/moonseer.png?1648349398"
+},
+{
+  "name": "ONUS",
+  "symbol": "ONUS",
+  "contract_address": "0x1851ccd370c444ff494d7505e6103959bce9f9d9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24599/large/onus.png?1648364408"
+},
+{
+  "name": "Bitcoin Metaverse",
+  "symbol": "BITMETA",
+  "contract_address": "0x9971f933c9a451aa5f068ef5f393d39b7cb779fb",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24600/large/bitmeta.png?1648365394"
+},
+{
+  "name": "MLOKY",
+  "symbol": "MLOKY",
+  "contract_address": "0xf71e950758310faf9f7d51c4f4250c7546086c1f",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24602/large/mloky.png?1648366035"
+},
+{
+  "name": "LOGOS UNAUX",
+  "symbol": "LOGOS",
+  "contract_address": "0x8e5f75296cd663b7ee3346a7b65d3e14a851c06a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24604/large/logos.png?1648367360"
+},
+{
+  "name": "BNB CHAIN ALL BEST ICO",
+  "symbol": "BNBALLBI",
+  "contract_address": "0xcdda114ac453f994d8b091b9bbea80b0c4d85ac8",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24607/large/bnballlbi.png?1648369054"
+},
+{
+  "name": "LimCore",
+  "symbol": "LIMC",
+  "contract_address": "0x078ca3af061603bd5a1ee2388116daace87244c3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24608/large/limc.png?1648369337"
+},
+{
+  "name": "Bitcoin City Coin",
+  "symbol": "BCITY",
+  "contract_address": "0x81d60ad757634e77d7ac321a90530eb6f0b71fa3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24611/large/bcity.png?1648372337"
+},
+{
+  "name": "Ratscoin",
+  "symbol": "RATS",
+  "contract_address": "0x57b798d2252557f13a9148a075a72816f2707356",
+  "decimals": 0,
+  "logo_url": "https://assets.coingecko.com/coins/images/24612/large/rats.png?1648373609"
+},
+{
+  "name": "Life Coin",
+  "symbol": "LFC",
+  "contract_address": "0xd9474595edb03e35c5843335f90eb18671921246",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24614/large/lfc.png?1648374164"
+},
+{
+  "name": "horgi",
+  "symbol": "HORGI",
+  "contract_address": "0x4f5c381861333097afa97e98a8d6dc0eb0d69ec4",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24615/large/horgi.png?1648374535"
+},
+{
+  "name": "BB Gaming",
+  "symbol": "BB",
+  "contract_address": "0x688ec465111ed639267cb17c47e790c9cc7279c1",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24616/large/bb.png?1648375444"
+},
+{
+  "name": "ShibKiller",
+  "symbol": "ShibKiller",
+  "contract_address": "0x9f5e3c8e95336cea51481f8cb02027b3c5a523a9",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24618/large/shibkiller.png?1648378791"
+},
+{
+  "name": "Alien Wars Gold",
+  "symbol": "AWG",
+  "contract_address": "0xa0ea34a23b790f53e9f01be8ffc5f44d60e169fd",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24621/large/AWGold_symbol__%281%29.png?1648448402"
+},
+{
+  "name": "Coin Login",
+  "symbol": "CLG",
+  "contract_address": "0x0d917aa50c82d4724d048c9fdc6af6fd4eb75525",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24623/large/logo200.png?1648449050"
+},
+{
+  "name": "The Cat Inu",
+  "symbol": "THECAT",
+  "contract_address": "0x9f485c50a611199fde9c849c56be7df888a90725",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24624/large/200.png?1648449338"
+},
+{
+  "name": "Gafa",
+  "symbol": "GAFA",
+  "contract_address": "0x495205d4c6307a73595c5c11b44bee9b3418ac69",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24625/large/gafalogot.png?1648449612"
+},
+{
+  "name": "Seek Tiger",
+  "symbol": "STI",
+  "contract_address": "0x4f5f7a7dca8ba0a7983381d23dfc5eaf4be9c79a",
+  "decimals": 10,
+  "logo_url": "https://assets.coingecko.com/coins/images/24628/large/50d6850967efa02b20fb24c6c7ba518.png?1648457363"
+},
+{
+  "name": "ROI Token",
+  "symbol": "ROI",
+  "contract_address": "0x99ce87a1f7f36f065b4e617937d03f2b68350123",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/24631/large/Logo-ROI-Token.png?1648459172"
+},
+{
+  "name": "Crypto Crash Gaming",
+  "symbol": "CCG",
+  "contract_address": "0x7b8d8bcf426e1fad8e3c02d57f6a4a6fcb912fcd",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24633/large/55978b3ef1b79d6a7e4aa9c5466f37b3.png?1648460089"
+},
+{
+  "name": "Meta Shark",
+  "symbol": "MTS",
+  "contract_address": "0xe558a2d2014f16e96a23b2c4ee49c2e7a0faa9af",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24637/large/LOGO-2.png?1648461230"
+},
+{
+  "name": "Rush Technology",
+  "symbol": "RUSH",
+  "contract_address": "0xdaee1f8c328ec96c23e8c3a9699fab130c4b29ea",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24639/large/07d4527824c66c94b6c2cfed66e43f76.png?1648463969"
+},
+{
+  "name": "STICKMAN BATTLEGROUND",
+  "symbol": "STMan",
+  "contract_address": "0xb75088a5d75e9ff7264abc7d25721e4436ec309d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24641/large/KUJBPxTC_400x400.jpg?1648468481"
+},
+{
+  "name": "CYLUM",
+  "symbol": "CYM",
+  "contract_address": "0x15ea6b8481bf1c991ac3dc8e67279d31651a56fe",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24642/large/nL86PqSc_400x400.jpg?1648509467"
+},
+{
+  "name": "MsgSender",
+  "symbol": "MSG",
+  "contract_address": "0x43f10fb99dbb8a80d1394cf452f255d4814e6495",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24643/large/Group_298.png?1648476125"
+},
+{
+  "name": "Punk-BSC",
+  "symbol": "Punk",
+  "contract_address": "0x083cfa6ecd80bbdcd295ec2046207c53dcec1645",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24646/large/kShA1Jtx_400x400.jpg?1648480003"
+},
+{
+  "name": "SHIBAMETAVERSE",
+  "symbol": "SHIBAMETA",
+  "contract_address": "0x941b66530369eef1c1b3011c0544755c67336031",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24649/large/lb_XXOf9_400x400.jpg?1648507680"
+},
+{
+  "name": "BOT",
+  "symbol": "BOT",
+  "contract_address": "0x1ab7e7deda201e5ea820f6c02c65fce7ec6bed32",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24650/large/tgV3zpYv_400x400.png?1648532391"
+},
+{
+  "name": "GYM NETWORK",
+  "symbol": "GYMNET",
+  "contract_address": "0x3a0d9d7764fae860a659eb96a500f1323b411e68",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24654/large/Wrq6pSQ.png?1648525258"
+},
+{
+  "name": "BattleMechs",
+  "symbol": "GEMZ",
+  "contract_address": "0xa1f0ac225de962e58a0ba3cc01c87a46cadf505f",
+  "decimals": 0,
+  "logo_url": "https://assets.coingecko.com/coins/images/24658/large/GfSXR1v_%281%29.png?1648527600"
+},
+{
+  "name": "Bluca Token",
+  "symbol": "BLUC",
+  "contract_address": "0x05928783b1f0b29a884af248aade809bba41ad00",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24661/large/BlucToken.png?1648529902"
+},
+{
+  "name": "C24",
+  "symbol": "C24",
+  "contract_address": "0x950642c4c8f52ca8a7d4af62d5e040f33f07d700",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/24664/large/cICWHcG.jpg?1648533445"
+},
+{
+  "name": "Human Asset Token",
+  "symbol": "HATOK",
+  "contract_address": "0xeb9a5cee5ece46338c82bde90af677585ee6f806",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24669/large/PZkMTjqn_400x400.jpg?1648539665"
+},
+{
+  "name": "DFW",
+  "symbol": "DFW",
+  "contract_address": "0x4e52d1dce54ab9d3c1798673b9cf1947e6660a3e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24671/large/dfw.jpg?1648546033"
+},
+{
+  "name": "DFG",
+  "symbol": "DFG",
+  "contract_address": "0xdae7a4aacbbcaf13e9a101a2bf376fcb3931ad27",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24672/large/dfg.jpg?1648546250"
+},
+{
+  "name": "DFM",
+  "symbol": "DFM",
+  "contract_address": "0x5645e089aabbda1aa3fee7c56208013cfefd1850",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24673/large/dfm.jpg?1648546430"
+},
+{
+  "name": "DAOF",
+  "symbol": "DAOF",
+  "contract_address": "0xfeb37569f06d7d06fcad51b7992f492b072dd3a3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24674/large/daof.jpg?1648546619"
+},
+{
+  "name": "My Kingdom",
+  "symbol": "MYK",
+  "contract_address": "0xe0c7227fec46bea77d01ddf4cddb680793fd9d54",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24676/large/IOgjEp44_400x400.jpg?1648550182"
+},
+    {
   "name": "MetaGox Decentraland",
   "symbol": "MTX",
   "contract_address": "0x14737b458c1582331897da2f37f208e15feaf5a7",
