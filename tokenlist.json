@@ -1,6 +1,125 @@
 {
   "tokens": [
     {
+  "name": "Weird Dao",
+  "symbol": "Weird",
+  "contract_address": "0xcd153e7e1ae1c435f414910f6c2c0598f1d6326e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24699/large/Rkiw6-rs_400x400.jpg?1648641208"
+},
+{
+  "name": "BABY CHEDDA",
+  "symbol": "BABYCHEDDA",
+  "contract_address": "0xa2aad1e49627ff37f78e11db1611159bc4c85122",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24721/large/BabyChedda-Listing-coin-icon.png?1648697485"
+},
+{
+  "name": "ElonBank",
+  "symbol": "ElonBank",
+  "contract_address": "0xd5f363f83b36e10e8a823166b992c0bdc3dede2c",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/24722/large/200.png?1648697659"
+},
+{
+  "name": "Plearn Token",
+  "symbol": "PLN",
+  "contract_address": "0xbe0d3526fc797583dada3f30bc390013062a048b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24723/large/plearn200x200.png?1648697974"
+},
+{
+  "name": "Scaryswap Token",
+  "symbol": "SCARY",
+  "contract_address": "0xb6cfc5bc09f96d46b642ff38781ea37afc35baf2",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24724/large/RC-gb7iP_400x400.jpg?1648699373"
+},
+{
+  "name": "Plato Game",
+  "symbol": "PLATO",
+  "contract_address": "0xf2572fdacf09bfae08ff7d35423870b5a8ac26b7",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24725/large/16085.png?1648700698"
+},
+{
+  "name": "Vulcano",
+  "symbol": "VULC",
+  "contract_address": "0x3810a078aa274ea6d06a480588eff8fe517220a4",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24726/large/YdPqyazR_400x400.jpg?1648702826"
+},
+{
+  "name": "Catpay",
+  "symbol": "CATpay",
+  "contract_address": "0x0611686a2558de495617685b3da12448657170fe",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24731/large/3OhxSams_400x400.jpeg?1648738347"
+},
+{
+  "name": "GaStream",
+  "symbol": "GSTRM",
+  "contract_address": "0xa0d2ca44a6880c4703b48b77efd0f9d6166fc9ab",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24732/large/aI3SNFjj_400x400.jpg?1648727560"
+},
+{
+  "name": "Valas Finance Protocol Token",
+  "symbol": "VALAS",
+  "contract_address": "0xb1ebdd56729940089ecc3ad0bbeeb12b6842ea6f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24733/large/valas-finance.png?1648738556"
+},
+{
+  "name": "Molecule Token",
+  "symbol": "MOL",
+  "contract_address": "0x06597ffafd82e66eced9209d539032571abd50d9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24744/large/MOL_200x200.png?1648783528"
+},
+{
+  "name": "FiboDex",
+  "symbol": "FIBO",
+  "contract_address": "0xf892561596b7b8085fad1b03b902d00096ae31ad",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24745/large/logo.png?1648783762"
+},
+{
+  "name": "Magic Elpis Gem",
+  "symbol": "MEG",
+  "contract_address": "0xf3dd37b24d007967149fc0e49d58228c304bf797",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24748/large/MEG_logo.png?1648785922"
+},
+{
+  "name": "MStation Token",
+  "symbol": "MST",
+  "contract_address": "0xe7af3fcc9cb79243f76947402117d98918bd88ea",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24752/large/MST.png?1648786947"
+},
+{
+  "name": "MOONEYE",
+  "symbol": "ME",
+  "contract_address": "0x0c088bed7207e5e37bd3022d58ae40d4a3490abc",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24754/large/MOO-NEYE.png?1648788676"
+},
+{
+  "name": "Derify Protocol Token",
+  "symbol": "DRF",
+  "contract_address": "0x89c1af791d7b4cf046dca8fa10a41dd2298a6a3f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24757/large/9VyY40eb_400x400.jpg?1648789821"
+},
+{
+  "name": "SPACE",
+  "symbol": "SPACE",
+  "contract_address": "0x32b86d0fd22426955c3bd4a9fbb14142fcb60355",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24761/large/99yxPIlK_400x400.jpg?1648812614"
+},
+    {
   "name": "Moonseer",
   "symbol": "Moon",
   "contract_address": "0x747deecd8f34a9036df50c8c6b9858621d226f05",
