@@ -1,6 +1,55 @@
 {
   "tokens": [
     {
+  "name": "WorkerTown",
+  "symbol": "WTN",
+  "contract_address": "0xdc279ddc65ea17382bbf9a141bb71550cdd587b3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24765/large/token.png?1648817039"
+},
+{
+  "name": "MondayClub Token",
+  "symbol": "MONDAY",
+  "contract_address": "0x407836435a30c7fa62db326d4f2d87bc1a87cc1a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24767/large/token.png?1648817450"
+},
+{
+  "name": "FamilyPartyCoin",
+  "symbol": "FPC",
+  "contract_address": "0xf080021c07fb6f55a5f2954ce8f11cedb25821ee",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24774/large/logo.png?1648822998"
+},
+{
+  "name": "Burn Floki",
+  "symbol": "BFLOKI",
+  "contract_address": "0x382177599e869dacfa0fa7681bad2d484506001a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24775/large/bfloki.png?1648898007"
+},
+{
+  "name": "FIDELIS",
+  "symbol": "FDLS",
+  "contract_address": "0x85cec9d09529c4239dcd89018889238abdd3ede6",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24778/large/fdls.png?1648900950"
+},
+{
+  "name": "QUOTA",
+  "symbol": "QTA",
+  "contract_address": "0xf223fb06766ad55272f179e59f1793ed8c27c706",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24779/large/qta.png?1648901247"
+},
+{
+  "name": "ElevenToken",
+  "symbol": "ELVN",
+  "contract_address": "0xe8de5e3689c42729ce53bb950fff2e625ccf23a7",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24790/large/11Minutes_Logo_CG.png?1648911979"
+},
+    {
   "name": "Weird Dao",
   "symbol": "Weird",
   "contract_address": "0xcd153e7e1ae1c435f414910f6c2c0598f1d6326e",
