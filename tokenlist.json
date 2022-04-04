@@ -1,6 +1,55 @@
 {
   "tokens": [
     {
+  "name": "Matrix Coin",
+  "symbol": "MC",
+  "contract_address": "0x138d1d1d12614096d53a02e8bce78e5cb6019d48",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24807/large/mc.png?1648993025"
+},
+{
+  "name": "ArtKit",
+  "symbol": "ARTI",
+  "contract_address": "0xab9ed2c3d76a1877d959c0d7e8de48a33c55205c",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24808/large/artkit.png?1648993555"
+},
+{
+  "name": "Novem Token",
+  "symbol": "NVM",
+  "contract_address": "0xbc338ebaaef242c5aea767d9330cea43ad4149e3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24804/large/nvm.png?1648987438"
+},
+{
+  "name": "Dabb Doge",
+  "symbol": "DDoge",
+  "contract_address": "0xc638a73969c0f7442ba8f5ffda9968434891034b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24803/large/ddoge.png?1648986915"
+},
+{
+  "name": "CryptoKlash",
+  "symbol": "KLH",
+  "contract_address": "0x2c9856bcd97782bbcd3c6477cdf5755050907deb",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24820/large/logo.2fe68a84.png?1649040269"
+},
+{
+  "name": "TipsyCoin",
+  "symbol": "$tipsy",
+  "contract_address": "0xe097bceb09bfb18047cf259f321cc129b7beba5e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24821/large/TipsyCoin-Icon.png?1649040735"
+},
+{
+  "name": "Smart Block Chain City",
+  "symbol": "SBCC",
+  "contract_address": "0x6e02be885fca1138038420fddd4b41c59a8cea6d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24822/large/V6xfvLzv_400x400.jpg?1649040978"
+},
+    {
   "name": "WorkerTown",
   "symbol": "WTN",
   "contract_address": "0xdc279ddc65ea17382bbf9a141bb71550cdd587b3",
