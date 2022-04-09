@@ -1,6 +1,111 @@
 {
   "tokens": [
     {
+  "name": "WEB3 DEV",
+  "symbol": "WEB3",
+  "contract_address": "0x545d75fdce2eef3432a80268382bff2ccb7c63cf",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24902/large/19382.png?1649334902"
+},
+{
+  "name": "NFTMAKE",
+  "symbol": "MAKE",
+  "contract_address": "0x1e2701d1e4f11262dad7c6f7922e3e44e14d7e40",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24914/large/make-icon.png?1649342362"
+},
+{
+  "name": "Useless",
+  "symbol": "1USE",
+  "contract_address": "0x60d66a5152612f7d550796910d022cb2c77b09de",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24924/large/useless.jpeg?1649388116"
+},
+{
+  "name": "Oasis Gold",
+  "symbol": "OG",
+  "contract_address": "0x11118681b271694e3d1730f4f29e63af05cf2180",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24925/large/oglogo.png?1649388641"
+},
+{
+  "name": "Connect",
+  "symbol": "CNT",
+  "contract_address": "0x17b6115a4d0292745d122a49ade76ed5ac16b19d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24927/large/61f1d2b3bae74faea4ea34ef_32x32.png?1649389084"
+},
+{
+  "name": "FGDTOKEN",
+  "symbol": "FGD",
+  "contract_address": "0x0566b9a8ffb8908682796751eed00722da967be0",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24928/large/logo.png?1649389263"
+},
+{
+  "name": "DOG BOSS",
+  "symbol": "DOGBOSS ",
+  "contract_address": "0x86c86ffdc0482d8dd918fc657c3fc51c4a1e3e5c",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24934/large/278095103_108041131873840_7864245311638218164_n.jpg?1649412689"
+},
+{
+  "name": "BabyAETH",
+  "symbol": "$BAETH",
+  "contract_address": "0x62e9581fe25ce5549b1f2481a9c0355a861515db",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24935/large/Baby-EATH-Logo.png?1649422394"
+},
+{
+  "name": "KittensAndPuppies",
+  "symbol": "KAP",
+  "contract_address": "0x1a4e3646baeda21276b34e408d4c6b75f6cc9a37",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/24936/large/200.png?1649422658"
+},
+{
+  "name": "AUM Token",
+  "symbol": "AUM",
+  "contract_address": "0xab7d67d2c229c34876b1b074bfb4a723b4401723",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24937/large/WDpucyvw.png?1649422885"
+},
+{
+  "name": "DDDX",
+  "symbol": "DDDX",
+  "contract_address": "0x4b6ee8188d6df169e1071a7c96929640d61f144f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24938/large/200_200.png?1649423045"
+},
+{
+  "name": "Litedex",
+  "symbol": "LDX",
+  "contract_address": "0x6f1deb53a0df1f4192c3f2237ee8c393c7aa7efe",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24939/large/coin-litedex-200x200.png?1649423175"
+},
+{
+  "name": "Indian Shiba Inu",
+  "symbol": "INDSHIB",
+  "contract_address": "0x9babcd3a6f62d9adc709e919d5faa39aa85749fc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24941/large/mvnnSVVU_400x400.jpg?1649424156"
+},
+{
+  "name": "mCoin",
+  "symbol": "MCOIN",
+  "contract_address": "0x84b03133534a1fe44a6479771574970804d3310b",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24942/large/mcoin_Logo_%281%29.png?1649429516"
+},
+{
+  "name": "PeeCoin",
+  "symbol": "PEECOIN",
+  "contract_address": "0x67fe403a75d871b992143fa15474f542a7892a6e",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/24946/large/peecoin.png?1649495734"
+},
+    {
   "name": "Dogs Kombat",
   "symbol": "DK",
   "contract_address": "0x728fc32c0d2f61ffe21b6a4a7df987deae0e0888",
