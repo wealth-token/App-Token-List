@@ -1,6 +1,104 @@
 {
   "tokens": [
     {
+  "name": "Brewery",
+  "symbol": "BRE",
+  "contract_address": "0x9ebbeb7f6b842377714eadd987caa4510205107a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24953/large/bre.png?1649507380"
+},
+{
+  "name": "Dentrocoin",
+  "symbol": "Dentro",
+  "contract_address": "0x3f30b6169b2178fa205a7a77e8823d2b359e7224",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24956/large/dentro.png?1649509204"
+},
+{
+  "name": "Hunter Crypto Coin",
+  "symbol": "HCC",
+  "contract_address": "0xae95bab27db001498c4985cea5783f6a04e247d8",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24957/large/hcc.png?1649509500"
+},
+{
+  "name": "DOGE-CAT",
+  "symbol": "DOGECAT",
+  "contract_address": "0x7b099edc196de9504a9f7bb0c3ec2aca26e7237e",
+  "decimals": 10,
+  "logo_url": "https://assets.coingecko.com/coins/images/24961/large/dogecat.png?1649574244"
+},
+{
+  "name": "Davidcoin",
+  "symbol": "DC",
+  "contract_address": "0x94df6e5bc05b6eb9eb65c918902f6f4b8edd8833",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24964/large/dc.png?1649583985"
+},
+{
+  "name": "Bitcoin Asset",
+  "symbol": "BTA",
+  "contract_address": "0x5d2436c74b8ab54f3199f76a0761d30ca64a0827",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24967/large/bta.png?1649589020"
+},
+{
+  "name": "ALLBESTICO.com",
+  "symbol": "ALLBI",
+  "contract_address": "0x613e18f13391cd4bfedf8a904991077c7ef29ee6",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24969/large/allbi.png?1649592992"
+},
+{
+  "name": "BABYOKX",
+  "symbol": "BABYOKX",
+  "contract_address": "0x6b670d593d10207cb59b1a88ae4b8b8ba18e52b4",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/24970/large/BABYOKX-200x200.png?1649645366"
+},
+{
+  "name": "PayGo",
+  "symbol": "PAYGO",
+  "contract_address": "0x49708c95fbd8eb65831811f7f2e19ddda008fd51",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/24972/large/271869870-650496619328235-2114002614573935348-n-3.png?1649646277"
+},
+{
+  "name": "META SKINNY&HOPE",
+  "symbol": "METASH",
+  "contract_address": "0xe6d80fe22c85dade97a7f615aab217bb332fb75b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24981/large/cI0xX_Gt_400x400.jpg?1649665043"
+},
+{
+  "name": "Bahtcoin",
+  "symbol": "BHT",
+  "contract_address": "0x9557af470eb1b4a5f2008f1926fb24c7566247b5",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24986/large/gWu9bO3X_400x400.jpg?1649682108"
+},
+{
+  "name": "dogemetaverse",
+  "symbol": "dogemeta",
+  "contract_address": "0xbeeee429f8fb7ac8435902707639518d246780c7",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24987/large/wemZesEz_400x400.jpg?1649682210"
+},
+{
+  "name": "Konstrukt",
+  "symbol": "KST",
+  "contract_address": "0x759c1a0a6b5ab52733f9efd89be340686315d84a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24988/large/download.png?1649682350"
+},
+{
+  "name": "TiFi Token",
+  "symbol": "TIFI",
+  "contract_address": "0x17e65e6b9b166fb8e7c59432f0db126711246bc0",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24990/large/logo200_%281%29.png?1649686507"
+},
+    {
   "name": "WEB3 DEV",
   "symbol": "WEB3",
   "contract_address": "0x545d75fdce2eef3432a80268382bff2ccb7c63cf",
