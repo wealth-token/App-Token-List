@@ -1,6 +1,62 @@
 {
   "tokens": [
     {
+  "name": "Pieme",
+  "symbol": "PIE",
+  "contract_address": "0x0581e55fdcb0874d885c5c02dd5dee3d6f7f2136",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24992/large/PNbh7sbg_400x400.jpg?1649719278"
+},
+{
+  "name": "MobyDick",
+  "symbol": "MOBY",
+  "contract_address": "0x47a57a9174fd8e4228e31735238a3059cfe6ecd2",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/24998/large/nG3ToMV5_400x400.png?1649731122"
+},
+{
+  "name": "Green_Meta_v2",
+  "symbol": "GMETA",
+  "contract_address": "0xfc352fcec6135edc384fe50bbf2bc2d1cdd7fc4e",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25000/large/200x200%281%29.png?1649739655"
+},
+{
+  "name": "Seesaw",
+  "symbol": "SSW",
+  "contract_address": "0xfe974dfdc2df0ed326d0b303d18560c3824b2f94",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25010/large/N2xq-Se-Ob-400x400.png?1649816633"
+},
+{
+  "name": "MetaMate",
+  "symbol": "MTM",
+  "contract_address": "0x3244478da3f518b33b99d5929dd0bc3396c56981",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25017/large/logo_metamate.png?1649830557"
+},
+{
+  "name": "Broovs",
+  "symbol": "Brs",
+  "contract_address": "0x98c6fd0281a9a0300cb88553bf386a3492bb70f7",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25020/large/OnV-HqI1_400x400.jpg?1649831519"
+},
+{
+  "name": "Senspark",
+  "symbol": "SEN",
+  "contract_address": "0x23383e18deedf460ebb918545c8b0588038b7998",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25033/large/Senspark_logo_200_x_200.png?1649852190"
+},
+{
+  "name": "PAYZ PAYMENTS",
+  "symbol": "PAYZ",
+  "contract_address": "0x88cf0a02371b9f00577552d673cf2ea0c18d0b14",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25040/large/payz-logo-2x.png?1649861033"
+},
+    {
   "name": "Brewery",
   "symbol": "BRE",
   "contract_address": "0x9ebbeb7f6b842377714eadd987caa4510205107a",
