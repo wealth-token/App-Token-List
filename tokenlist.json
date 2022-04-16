@@ -1,6 +1,76 @@
 {
   "tokens": [
     {
+  "name": "PANDA SWAP",
+  "symbol": "PANDA",
+  "contract_address": "0x3c82a76556282fecbcdfdefbc0760dee9d230d5a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25045/large/Pandalogo2.png?1649912859"
+},
+{
+  "name": "Pi Network DeFi",
+  "symbol": "Pi Network DeFi",
+  "contract_address": "0x746760ecf1d8088c1014ef3d43dc45d5af8febf3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25046/large/logo.png?1649913281"
+},
+{
+  "name": "Bingo Game",
+  "symbol": "Bingo",
+  "contract_address": "0xd3be8ed77fbdaf42e5395d9d7fb72bcb4110cfb0",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25047/large/bingo.png?1649913513"
+},
+{
+  "name": "FistToken",
+  "symbol": "FIST",
+  "contract_address": "0xc9882def23bc42d53895b8361d0b1edc7570bc6a",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/25051/large/download.png?1649918598"
+},
+{
+  "name": "Moonshot",
+  "symbol": "MSHOT",
+  "contract_address": "0x5298ad82dd7c83eeaa31dda9deb4307664c60534",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25054/large/YuW47ZBf_400x400.jpg?1649939265"
+},
+{
+  "name": "Zenccoin",
+  "symbol": "ZENC",
+  "contract_address": "0x88171d935f22fea8dd7203cc80900036549d44ea",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25055/large/1TMxKir4_400x400.png?1649939681"
+},
+{
+  "name": "FireToken",
+  "symbol": "FIRE",
+  "contract_address": "0x0f0dd5e2c0e0c4a41f8908d73d36b8d142f6745a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25063/large/firetoken.png?1649993446"
+},
+{
+  "name": "AmazingTeamDao",
+  "symbol": "AmazingTeam",
+  "contract_address": "0x44ece1031e5b5e2d9169546cc10ea5c95ba96237",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25064/large/EXlV29q.jpg?1650013930"
+},
+{
+  "name": "TIGER COIN",
+  "symbol": "TIGER",
+  "contract_address": "0x33fa340e3ca95c84ef4529f864f3733b7f0ff396",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25066/large/OmlGP42aXtsvyGDfwuJda6v2us8CAKgPBvLK9veMuTXdNucXd7pZsq8BydpInGR2aYDBa1D32OlKOCij21-wvqQt9-UaIQvLfNvI8GVT4K_1URzDmu8iHvZlA3bs94K1bepXsbbora6fopxLN_ppLfXKC5g9ihpnV7u7f7SV1lxQy-gdSQCA-8A4TmkiM5wX8hiA8WAqgpm9FZ9jz54pgDcsnD.jpg?1650016584"
+},
+{
+  "name": "Puzzle And Dragons X",
+  "symbol": "PADX",
+  "contract_address": "0xe456a162039270a2a789da2e8bd2b005a9835232",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25067/large/liHrtBjs_400x400.jpg?1650017065"
+},
+    {
   "name": "Pieme",
   "symbol": "PIE",
   "contract_address": "0x0581e55fdcb0874d885c5c02dd5dee3d6f7f2136",
