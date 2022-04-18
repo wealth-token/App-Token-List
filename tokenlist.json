@@ -1,6 +1,90 @@
 {
   "tokens": [
     {
+  "name": "Ola Coin",
+  "symbol": "OLA",
+  "contract_address": "0x47d0f6195911e93fe2b9b456289b6769aa47268f",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/25072/large/-INBZWHO_400x400.png?1650243241"
+},
+{
+  "name": "SPDGAME COIN",
+  "symbol": "SPDC",
+  "contract_address": "0x833fbcd654ed2f3a36059102b24f50c58bb21c5a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25073/large/200x200.png?1650252946"
+},
+{
+  "name": "PlayPoseidonPearl",
+  "symbol": "PPP",
+  "contract_address": "0xce355300b9d7909f577640a3fb179cf911a23fbb",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25074/large/Icon_PPP_Big_x200.png?1650259741"
+},
+{
+  "name": "CENTURY",
+  "symbol": "CENS",
+  "contract_address": "0x9e1fd9ba2590af57f926177850eae1611d447874",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/25075/large/GE43rZJ799_zVmGgjsMWTmWPLUnU71OUQEiiH7zHFvLAV4hBWQ06OL-uH2nYHPPrgktz_xt6Ix_WCxRBzJr-kx3vjqDsp8lcGV6LtSmJA8Dh0lWix_SU9eC1TM5dsDsEJ6gvknXg9LQxHjKgugxllEsIzjX6lAK8PABDxOyjBvy9sCXgnlDd__GNY2Bs__XfcEQ3mThaPSIaGTza9n6cRv3dIs.jpg?1650260249"
+},
+{
+  "name": "Fairy Forest",
+  "symbol": "FFN",
+  "contract_address": "0x6a381bbca11e8da31331e2a9821aa7e7b04717a7",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25076/large/3g200x200-px-2.png?1650260507"
+},
+{
+  "name": "SOS AMAZÔNIA",
+  "symbol": "SOSAMZ",
+  "contract_address": "0x9cb314d707c7ac43d65b67c0747d4e8cd9162295",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25077/large/ICON-200px.png?1650260732"
+},
+{
+  "name": "EsportGame",
+  "symbol": "ESM",
+  "contract_address": "0xa9a2589c2301456de4b100c79753e3b0bdd4a0dd",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25078/large/04._ESPORT_GAME_1_NBG_NT.png?1650260960"
+},
+{
+  "name": "Sphynx Labs",
+  "symbol": "SPHYNX",
+  "contract_address": "0x6e281f90c6d1b5e5a01fb6f14c428aff69c04c3f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25079/large/200x200-TRANS.png?1650261405"
+},
+{
+  "name": "Medamon",
+  "symbol": "MON",
+  "contract_address": "0x52b7c9d984ea17e9ee31159ca3fff3790981b64a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25081/large/B1-F2-FD78-8375-439-A-B7-B0-88492-B55-F6-FD.png?1650263137"
+},
+{
+  "name": "MIC",
+  "symbol": "MIC",
+  "contract_address": "0x71fc2c893e41eabdf9c4afda3b2cdb46b93cd8aa",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25085/large/iUuLuOEsilei-ecpryv7sGFXvtJ0WOSAX0a4MX7d0huo6DSvKYxhdOzJuNVAAklFK68tW5S5GfoiO6koLbjWp2UDvjSBXi3LCzlp437hqaSLgYwoNsLAQhaVzqwIxyvjjLluyH0R_RykeAXGz3I7wl32qnjkdt43Wa4ZgPqLTVwC8siw_50w46MLRAZWISQ_YbjSVhU20-g9dwUBsKTA4Nyw_I.jpg?1650265494"
+},
+{
+  "name": "Crinet",
+  "symbol": "CNT",
+  "contract_address": "0x17d0b69a947db94c825c07216905103dca2dc732",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25090/large/Crinet_Logo_Icon_%281%29_%281%29.png?1650269805"
+},
+{
+  "name": "OnlineColdWallet",
+  "symbol": "OCW",
+  "contract_address": "0x5bf059dda26da45e300aacc4347e8ad872381a15",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25096/large/gTdrrooG_400x400.jpg?1650272008"
+},
+    {
   "name": "PANDA SWAP",
   "symbol": "PANDA",
   "contract_address": "0x3c82a76556282fecbcdfdefbc0760dee9d230d5a",
