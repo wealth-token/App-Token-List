@@ -1,6 +1,251 @@
 {
   "tokens": [
     {
+  "name": "Shera",
+  "symbol": "SHR",
+  "contract_address": "0xe2c5fcf777a2b860921116b275951a50e8135eeb",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25146/large/NtobKtpi_400x400.jpg?1650436989"
+},
+{
+  "name": "alireza",
+  "symbol": "USDR",
+  "contract_address": "0x275194ed61cff8e6ab6f4a5a6ebe63f6de882276",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/25136/large/UgdBhdY1_400x400.jpg?1650432083"
+},
+{
+  "name": "Ankr BNB Reward Bearing Certificate",
+  "symbol": "aBNBc",
+  "contract_address": "0xe85afccdafbe7f2b096f268e31cce3da8da2990a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25138/large/19573.png?1650433058"
+},
+{
+  "name": "Bridge Token",
+  "symbol": "BRDG",
+  "contract_address": "0x1562c99ad7179b7d1d862ff4e8bff6cc016a97ee",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25139/large/bridge-logo-blue.png?1650433261"
+},
+{
+  "name": "GodeChain",
+  "symbol": "GODE",
+  "contract_address": "0x245d9f531757f83064ad808b4c9b220c703a4934",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/25140/large/KQkiY5pe_400x400.jpg?1650433701"
+},
+{
+  "name": "Wolf Pups",
+  "symbol": "Wolfies",
+  "contract_address": "0x6ad2b6d5d8f96c8e581d3100c12878b2151a0423",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25133/large/wolfies.png?1650426815"
+},
+{
+  "name": "WOW-token",
+  "symbol": "WOW",
+  "contract_address": "0x4eaf5492838f34aaf6a5e1c603872da94baedc7d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25128/large/wow_200x200.png?1650373062"
+},
+{
+  "name": "RedPill",
+  "symbol": "RPP",
+  "contract_address": "0x80d3a1226fe1a185834e8cb44c66d5f7859a03d1",
+  "decimals": 4,
+  "logo_url": "https://assets.coingecko.com/coins/images/25125/large/Lkf2VKY.jpeg?1650372489"
+},
+{
+  "name": "CTC",
+  "symbol": "CTC",
+  "contract_address": "0x7921f18d516b42fc8bf26c13c363cac63c22f3c4",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25124/large/6gPENcou_400x400.jpg?1650372308"
+},
+{
+  "name": "SinghCoin",
+  "symbol": "SINGH",
+  "contract_address": "0x867b96b33b2c13cc8cb78a9aa95420c6cd42c4c6",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25123/large/singh-200x200.png?1650371504"
+},
+{
+  "name": "Alnassr FC fan token",
+  "symbol": "NASSR",
+  "contract_address": "0x0fc85d9f186a01a8b315cf23dcf1a0cbdf1a9ccb",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25121/large/r4YopolZ_400x400.jpg?1650374129"
+},
+{
+  "name": "Algoblocks",
+  "symbol": "ALGOBLK",
+  "contract_address": "0xfecca80ff6deb2b492e93df3b67f0c523cfd3a48",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25120/large/tncthV9K_400x400.jpg?1650370062"
+},
+{
+  "name": "Memeverse",
+  "symbol": "Meme",
+  "contract_address": "0xe932902b2f8b7d4959a311b16b2672501c42b3f7",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25098/large/meme.jpg?1650369722"
+},
+{
+  "name": "Versal Token",
+  "symbol": "VER",
+  "contract_address": "0xebd4f823b4b22c631b1eb894f46e772b0385c948",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25155/large/logo_%28390x390%29.png?1650461742"
+},
+{
+  "name": "SkyDOS Coin",
+  "symbol": "SDC",
+  "contract_address": "0x672d15d2b8fb13f5295fab4b2e82b394ab967de6",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25161/large/logo.jpg?1650510114"
+},
+{
+  "name": "DeFiGram",
+  "symbol": "DFG",
+  "contract_address": "0xb661f4576d5e0b622fee6ab041fd5451fe02ba4c",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25162/large/19590.png?1650519619"
+},
+{
+  "name": "CITY OF DREAM",
+  "symbol": "COD",
+  "contract_address": "0x73eb6947d72ed1979e6a935f516212a7f593bc44",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25164/large/YWdHwVMAbIlCp5-7vCUp8Clpp4qOvDnD9vmjAioDpwQBJbobhCW0vJa6izVdZfOeeKBzjRrTW8tk1Z2ec9W-qoYQ-PzF5_5z7iSQKpPAmd5GZSaXrPGsvrgANcZaFM4O6MFqqK8ETyOrCM56Z37XGcEGSYKjhq5x_MzrbWqbzh2eKkIKs6DX9xWzVoBKpBOvc7BceSvQ2Hi3s3GgbdB6Huy67J.jpg?1650520054"
+},
+{
+  "name": "Luzion Protocol",
+  "symbol": "LZN",
+  "contract_address": "0x291c4e4277f8717e0552d108dbd7f795a9fef016",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/25165/large/cmclznlogo200x.png?1650520729"
+},
+{
+  "name": "CAR TOKEN",
+  "symbol": "CAR",
+  "contract_address": "0xe661caf9a306299fdd685ebdd76c55955182aa37",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25166/large/19647.png?1650521233"
+},
+{
+  "name": "XDRAKE",
+  "symbol": "XDR",
+  "contract_address": "0x2fcb955689616cb4b6dbfac7319f2a5c991d035a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25169/large/18600.png?1650524145"
+},
+{
+  "name": "Xid Network",
+  "symbol": "XID",
+  "contract_address": "0x0eef1c6efc291aaa789eb0e31b3938ade17a0ed3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25170/large/Temp-200x200.jpg.png?1650524438"
+},
+{
+  "name": "MAoE Token",
+  "symbol": "MAoE",
+  "contract_address": "0x7909111bfaba55ebcd88051ca9dff0c4d93eace5",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25172/large/200x200-03_%281%29.png?1650526360"
+},
+{
+  "name": "A-NATION",
+  "symbol": "ANATION",
+  "contract_address": "0x5ae89b52f6b5d25eba50f0441f91a81968689d95",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25174/large/Logo_Icon_ColorGradient200x200_nvsxez.png?1650526997"
+},
+{
+  "name": "Protocon",
+  "symbol": "PEN",
+  "contract_address": "0xa5dec77c4d1b4eba2807c9926b182812a0cbf9eb",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25175/large/pen_ticker.png?1650527396"
+},
+{
+  "name": "SINCERE CATE",
+  "symbol": "$SCATE",
+  "contract_address": "0x0bf3163be50d06df23ae52f3ae123ace838f1c1a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25178/large/Whats-App-Image-2022-03-20-at-4-35-57-PM.jpg?1650541568"
+},
+{
+  "name": "Vincenzo Network",
+  "symbol": "VZN",
+  "contract_address": "0x527810fef739caf5611bcec15f4a1f5d51e9027e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25180/large/IMG_6127.PNG?1650542410"
+},
+{
+  "name": "Mercury",
+  "symbol": "MERCURY",
+  "contract_address": "0x6ad5ef5c8380c657020a54cf00791423a49134d6",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25185/large/fLazbscihO7j4pE21hFmAHQPLMuipxNhGJ94MMkfDdGvBil1yalREpX4dutxPILVF6LVPGaLSDbsnPvdAjrEVZL-Mqi_BoTCHFshLkkn-9Cmtp9freT1Q4xgsWBOAjEZ2b99brd-fHRrAD8kIqoUMqdfSGgGtaVXD8R0qqzB5WupthP7Z0b8jBaMuyTJ9ZEld_Ms0_2dL2Se3oLBGYrlswZTsB.jpg?1650599275"
+},
+{
+  "name": "Virtual Tourist Token",
+  "symbol": "VT",
+  "contract_address": "0xed66ec1acb7dbd0c01cccff33e3ff1f423057c21",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25186/large/200x.png?1650599907"
+},
+{
+  "name": "VicMove",
+  "symbol": "VIM",
+  "contract_address": "0x5bcd91c734d665fe426a5d7156f2ad7d37b76e30",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25188/large/1_trans.png?1650610033"
+},
+{
+  "name": "Meta Business",
+  "symbol": "MEFI",
+  "contract_address": "0x6a06d3fdd17bc335fa076f544794879e22aad4b2",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25189/large/200x200.png?1650605062"
+},
+{
+  "name": "BE META FAMOUS",
+  "symbol": "BMF",
+  "contract_address": "0x54c159b71262878bf096b45a3c6a8fd0a3250b10",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25192/large/Meta_Fame_Token.png?1650605900"
+},
+{
+  "name": "QUINT",
+  "symbol": "QUINT",
+  "contract_address": "0x64619f611248256f7f4b72fe83872f89d5d60d64",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25194/large/logo-200x200.png?1650608504"
+},
+{
+  "name": "CakePad",
+  "symbol": "CKP",
+  "contract_address": "0x81f7bbfc362994badcdcae1b38d426be4d82894a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25195/large/NRTOCIMm_400x400.png?1650610573"
+},
+{
+  "name": "Galaxy Heroes",
+  "symbol": "GHC",
+  "contract_address": "0x22de16487955ae1f842fa0c0bff6083a7fdefedd",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25200/large/wB-aTZWY_400x400.jpg?1650616968"
+},
+{
+  "name": "Apple",
+  "symbol": "AMB",
+  "contract_address": "0x95977a9daa14a00258f89a14f75b6e35d5b730d4",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25205/large/Apple_AMB.jpeg?1650688855"
+},
+    {
   "name": "Ola Coin",
   "symbol": "OLA",
   "contract_address": "0x47d0f6195911e93fe2b9b456289b6769aa47268f",
