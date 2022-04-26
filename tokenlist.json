@@ -1,6 +1,97 @@
 {
   "tokens": [
     {
+  "name": "Gaming Stars",
+  "symbol": "GAMES",
+  "contract_address": "0xf300e4f1a193dd047b0c6747ad4e16dedf886297",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/1729/large/logo-yt_1_1_1_200x200.png?1650868415"
+},
+{
+  "name": "DotDot",
+  "symbol": "DDD",
+  "contract_address": "0x84c97300a190676a19d1e13115629a11f8482bd1",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25212/large/batkXqm.png?1650859186"
+},
+{
+  "name": "MetaBomb Token",
+  "symbol": "MTB",
+  "contract_address": "0x2bad52989afc714c653da8e5c47bf794a8f7b11d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25213/large/token-icon.png?1650869814"
+},
+{
+  "name": "Medano",
+  "symbol": "MDO",
+  "contract_address": "0x82a70e626729060c156a49963920d4772eee2a56",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25214/large/logo_medano-1.png?1650865147"
+},
+{
+  "name": "REBASEAPY",
+  "symbol": "REBASEAPY",
+  "contract_address": "0xd86f817fd6aa04ea2a0b443dc5b3be4530c9d4b6",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/25215/large/200x200.png?1650865628"
+},
+{
+  "name": "Infinity DAO",
+  "symbol": "IND",
+  "contract_address": "0x986d88736cc8c18069b75a3023ec3880f3b20562",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25219/large/3079663-E-2155-4-CB4-B284-970955483392.jpg?1650874362"
+},
+{
+  "name": "lUSD",
+  "symbol": "lUSD",
+  "contract_address": "0x23e8a70534308a4aaf76fb8c32ec13d17a3bd89e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25223/large/lusd_200x200.png?1650957327"
+},
+{
+  "name": "KyteOne",
+  "symbol": "KTE",
+  "contract_address": "0x61fa01129ac0bb124d1c60dc9f735c6c579a858b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25225/large/3l4OKCIt_400x400.png?1650935126"
+},
+{
+  "name": "Gale Network",
+  "symbol": "GALE",
+  "contract_address": "0x627e86e9ec832b59018bf91456599e752288aa97",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25228/large/gale200.png?1650950859"
+},
+{
+  "name": "actifit",
+  "symbol": "AFIT",
+  "contract_address": "0x4516bb582f59befcbc945d8c2dac63ef21fba9f6",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25229/large/9244.png?1650951199"
+},
+{
+  "name": "Artik",
+  "symbol": "ARTK",
+  "contract_address": "0xdbe373d9374cee42cdd40754c71cd3f5eded4da7",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25230/large/logo_200x200.png?1650951872"
+},
+{
+  "name": "Metars Coin",
+  "symbol": "MTSC",
+  "contract_address": "0x54a1d188461dc254c19b8f8cbeb0dff1ec960281",
+  "decimals": 2,
+  "logo_url": "https://assets.coingecko.com/coins/images/25231/large/XtVAGCV7L-AVQuLrf7Zq1mKhHsE75KoQPGsB9rJIfpL4h5fZd_CfsZvFKCc6OSlaB1iYWUvNFOuHYulj0piiyD_6JR82NFiVAn9G30t-6fcf6JMHPuG8frRCWRaXMLusgDBzjZg214-z4s-cbhLqLn0qoRIn_jGR-hohCps_e0Pnl9NXPC-Y_vjviL6T6SruKklirqBXxvVSTc_mwfSo-g-0Lg.jpg?1650952900"
+},
+{
+  "name": "Marbleheroes token",
+  "symbol": "MBH",
+  "contract_address": "0x9d9f777d0f9c1dc2851606611822ba002665e0bf",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25237/large/MBH_LOGO.png?1650964874"
+},
+    {
   "name": "Shera",
   "symbol": "SHR",
   "contract_address": "0xe2c5fcf777a2b860921116b275951a50e8135eeb",
