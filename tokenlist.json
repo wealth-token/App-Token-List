@@ -1,6 +1,230 @@
 {
   "tokens": [
     {
+  "name": "Joltify Coin",
+  "symbol": "JOLT",
+  "contract_address": "0x7db21353a0c4659b6a9a0519066aa8d52639dfa5",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25262/large/NSj-jWHR_400x400.jpg?1651044237"
+},
+{
+  "name": "Metaverse Network",
+  "symbol": "METANET",
+  "contract_address": "0x423a975c1c08f67b09827491649c78cd31df4b0e",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25263/large/allbestico256x256.png?1651044487"
+},
+{
+  "name": "SmartFi",
+  "symbol": "SMTF",
+  "contract_address": "0x11fd9ed04f1eb43ef9df6425a6990609f2468895",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25264/large/618d410e849c474a30fe91ae_SMTF_token_-_transparent_background.png?1651044829"
+},
+{
+  "name": "Raptor v3",
+  "symbol": "RPTR",
+  "contract_address": "0x44c99ca267c2b2646ceec72e898273085ab87ca5",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25265/large/Vy7-XGjj_400x400.jpg?1651053305"
+},
+{
+  "name": "FAME MMA",
+  "symbol": "FAME",
+  "contract_address": "0x28ce223853d123b52c74439b10b43366d73fd3b5",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25267/large/FJTwuXxE_400x400.jpg?1651066664"
+},
+{
+  "name": "redFireAnts",
+  "symbol": "rANTS",
+  "contract_address": "0x567bbef0efdf53355c569b7aedde4c4f7c008014",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25269/large/website-rants-300x300.png?1651068334"
+},
+{
+  "name": "Victory Gem",
+  "symbol": "VTG",
+  "contract_address": "0x8de5aa37a7c40a53062ead382b8eead3b08a7a46",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25270/large/vtg.png?1651117782"
+},
+{
+  "name": "Run Together Token",
+  "symbol": "RUN",
+  "contract_address": "0xe1a2b086530e18895fa1b23a6d905dafc055f13b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25273/large/pcjMdwbkQN9Oe0edZcVsgWIwXkhdGtHWW0OG8LjUV11KcS-B7ndLPbR9e0PGUHJYhhXIZdvyGtD5zi5sua2MMdk-B517sC-tN90JIGXb7D8FA1eZ18xo2NI9qpzObXsvqnxc5Gg8N232il4hz8jmqjYDMcSGD2bTJxB5DPm8Z9SKZbRWRKVkkyAS7oV9sCXQ8vCC78jj_XXwOnRsLFXEEXFI6w.jpg?1651123132"
+},
+{
+  "name": "zonoswap",
+  "symbol": "zono",
+  "contract_address": "0xac97796b45f9627e16da9c93e608579ceeb410a4",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25274/large/b2MrORXaasS2twtwDSnBNjnbLWCQbnc4NQLq7SzgvyKhIkuqxOUSUOeYEvo0DCtW23i9EZZqKo5yf-tBjMJWqnnVgNYl5ZjxKsj37THFlJhfI3-gFYSjeeFPlPhcBRfK-I9C4_vA2m7f0lLZTLxM4pK5ueJaYreVssoInO5RVjhH2eamN3xj-ZiBSm9agjuUC0BWJXUjhbRQFYcj_rYu_D3jhH.jpg?1651123476"
+},
+{
+  "name": "Taroverse Token",
+  "symbol": "TARO",
+  "contract_address": "0x424aa711301c82252eccaccf01301ad7ad7b5d40",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25276/large/Taroverse.png?1651124099"
+},
+{
+  "name": "CATCOIN",
+  "symbol": "CATCOIN",
+  "contract_address": "0x3e362283b86c1b45097cc3fb02213b79cf6211df",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25279/large/logo_%281%29.png?1651126078"
+},
+{
+  "name": "J9CASINO",
+  "symbol": "J9BC",
+  "contract_address": "0x8dcff5ba47aa24cfeb73a2262b7cd6d18739600c",
+  "decimals": 2,
+  "logo_url": "https://assets.coingecko.com/coins/images/25280/large/J9_logo.jpg?1651126635"
+},
+{
+  "name": "DeFly Ball Token",
+  "symbol": "DEFLY",
+  "contract_address": "0x0fe6a599c280853621a11c12e1a68e6949cbd08a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25281/large/OJ2HPSh-_400x400.png?1651127421"
+},
+{
+  "name": "Cashera",
+  "symbol": "CSR",
+  "contract_address": "0x6e8ff72962750f0fa57a906f7833d1c657614abe",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25286/large/icon200.png?1651129033"
+},
+{
+  "name": "Meta Z Token",
+  "symbol": "MZT",
+  "contract_address": "0x5ef6b5abaa7e9b75fa4daebf0fc722f9aff12b40",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25287/large/PMZ.png?1651130474"
+},
+{
+  "name": "Bitsubishi",
+  "symbol": "BITSU",
+  "contract_address": "0x732cc1642905af1b7c394c0812dbc4779cbf2b2d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25289/large/CMC.png?1651131086"
+},
+{
+  "name": "BOJI",
+  "symbol": "BOJI",
+  "contract_address": "0x1b19c6bb5ea3290dc8b4cb722dee9eea7bc7b164",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25290/large/CAt5H2S.png?1651131273"
+},
+{
+  "name": "AmGen",
+  "symbol": "AMG",
+  "contract_address": "0xc05f9174eb7f8b5102d8c83f441a5f65a684aefc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25291/large/WorYFccvCfc0SQzHHCSJyVHyE7StfNOVU9NajqXcKv3G7hvinJGlISSFBgjuamai1N6aZTUCuDQD8Lm2Nod2loHKAedAtagu-DNv_r7PlxyiAr8pP6TqPHRwmLMkYeVIMAXjUIZtDwS8B1WKLdM1qYfbZb6_9aMD9WMEh2g58Oa2tac0Y1HPSy_Q1ZGIFXSMntGbeRs2-fqMPLjeFztRR0_%281%29.jpg?1651132162"
+},
+{
+  "name": "Viva Classic",
+  "symbol": "VIVA",
+  "contract_address": "0x32767ca0b39a1261e4ba392a605f7fab37d059c7",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25293/large/EeIoXr_0_400x400.jpg?1651140109"
+},
+{
+  "name": "Jetset",
+  "symbol": "JTS",
+  "contract_address": "0xbf675ed044f2092a4f004aa5709bfa858641ce8b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25295/large/lAsTdP6-_400x400.jpg?1651147535"
+},
+{
+  "name": "VR Blocks",
+  "symbol": "VRBLOCKS",
+  "contract_address": "0xce42b6cdf5faf84c6c3923a8c6c2324031f7692b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25299/large/IMG-20220426-151515-882.jpg?1651149708"
+},
+{
+  "name": "Miracle Universe",
+  "symbol": "MU",
+  "contract_address": "0x4c2d292d4c72ea7003793d86014941522b821fda",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25301/large/2zkUxCiY_400x400.jpg?1651155436"
+},
+{
+  "name": "WND",
+  "symbol": "WND",
+  "contract_address": "0xd9931818d75a6cef4fb0092a73c6e87867a0751a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25302/large/XhWmpBwh_400x400.jpg?1651154133"
+},
+{
+  "name": "Wrapped FireAnts",
+  "symbol": "wANTS",
+  "contract_address": "0xcd845749201e07c678563bc5ef7534c85550d496",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25303/large/website-wants-300x300.png?1651197763"
+},
+{
+  "name": "KeySwap",
+  "symbol": "KEY",
+  "contract_address": "0x07b1681c082039551952bdee4a505cecc2ff4998",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25306/large/1.png?1651210948"
+},
+{
+  "name": "ELFT Token",
+  "symbol": "ELFT",
+  "contract_address": "0x26b9a652e7d45fff08f2229a835862cdc811e54a",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25308/large/L-gWeX0PUsG32TXHRZC5k4sClQWI3EMJ5WCMCvklBbNq0dAlGe2DRnqmch_oUyFheOJS1zhxFGAoByR1bGwBNUDACZdn29vcjmvrbcNuGoeY9097HcE3ZrljFFw8_BD7L77MhHBePDvYTzRhwgySxMOVmZFFmkBHhAK18R-qFIQp_zfs0eOD1uj_aKvySIN4aTPEQsV88KZJk9RP-MlKkitR8l.jpg?1651211737"
+},
+{
+  "name": "MOVEY TOKEN",
+  "symbol": "MOVEY",
+  "contract_address": "0x2b511aa476213e9081dd6a59a3739f0cb9d01162",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/25309/large/uh6VZ8b.png?1651212010"
+},
+{
+  "name": "EVAI",
+  "symbol": "EV",
+  "contract_address": "0x2167afa1c658dc5c4ec975f4af608ff075a8b8ae",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/25313/large/EV-TOKEN-CG-45_%281%29.png?1651215001"
+},
+{
+  "name": "OASIS",
+  "symbol": "OASIS",
+  "contract_address": "0x80923b4dc6db8467575fb2bd2088c7c37fe26e5f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25318/large/oasis-logo-200x200.png?1651216849"
+},
+{
+  "name": "GemPad",
+  "symbol": "GEMS",
+  "contract_address": "0x78aae7e000bf6fc98a6b717d5ec8ef2bcd04f428",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25319/large/KQLfrRw.png?1651217242"
+},
+{
+  "name": "ASIX+",
+  "symbol": "ASIX+",
+  "contract_address": "0x2bf4be7c4520c41d012eb09a034179e03b898534",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25323/large/logo_%282%29.png?1651222441"
+},
+{
+  "name": "Aarma",
+  "symbol": "ARMA",
+  "contract_address": "0xe405b8148d731e4e1117e00542264dac5375bc97",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25330/large/aarma-200x200.png?1651236749"
+},
+    {
   "name": "Gaming Stars",
   "symbol": "GAMES",
   "contract_address": "0xf300e4f1a193dd047b0c6747ad4e16dedf886297",
