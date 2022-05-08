@@ -1,6 +1,230 @@
 {
   "tokens": [
     {
+  "name": "GRCC",
+  "symbol": "GRCC",
+  "contract_address": "0x7128b8e084f96b8a20e7e7623e162fdc4553cca6",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25414/large/mbLQzw4d_400x400.jpg?1651734640"
+},
+{
+  "name": "FitScrypt",
+  "symbol": "$FIT",
+  "contract_address": "0x24aa6a92be9d1c1cac5b625e650bb2b974eee16c",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25398/large/photo-2022-02-26-12-48-53.jpg?1651721096"
+},
+{
+  "name": "CharityDao Token",
+  "symbol": "CHD",
+  "contract_address": "0xb4cd493f14edaae27fdaab87072f3d55d9289a18",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25401/large/logo200x200.png?1651728972"
+},
+{
+  "name": "Learning Cash",
+  "symbol": "EAD",
+  "contract_address": "0x74b6978f0b449f71c6e7addefd62bbeb3fa89b71",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25405/large/logo.png?1651730991"
+},
+{
+  "name": "Evoverse Shard",
+  "symbol": "EVS",
+  "contract_address": "0x576ac55622333c7193447d20b985ed8ed096065b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25408/large/RBX_Symbol.png?1651732272"
+},
+{
+  "name": "EXALT",
+  "symbol": "EXALT",
+  "contract_address": "0x23dff15157f2456d0fe8839ae15438ba85734f8b",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25415/large/avatar-1671691499-0.jpg?1651734874"
+},
+{
+  "name": "Yuse Token",
+  "symbol": "YUSE",
+  "contract_address": "0x8526ff6bbd8a976127443b1ce451ca1044aa3ce2",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25416/large/NlEpysOy_400x400.png?1651734883"
+},
+{
+  "name": "CreoEngine",
+  "symbol": "CREO",
+  "contract_address": "0x9521728bf66a867bc65a93ece4a543d817871eb7",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25419/large/17000.png?1651736080"
+},
+{
+  "name": "MetaKeeper",
+  "symbol": "MKP",
+  "contract_address": "0x9bfad67b5477e2daf1c15ef4b43b34f2d007b968",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25421/large/MKPToken.png?1651736334"
+},
+{
+  "name": "LEGIO",
+  "symbol": "LGO",
+  "contract_address": "0x44c663476ecb54487c95e82c5bd05b9694253a9f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25422/large/LegioDAO_transparent.png?1651736525"
+},
+{
+  "name": "Vulkania",
+  "symbol": "VLK",
+  "contract_address": "0x797bb0beea437d2762a755ea911c0046c1284568",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25424/large/7DBYi_Zc_400x400.jpg?1651737050"
+},
+{
+  "name": "Utility NFT Coin",
+  "symbol": "UNC",
+  "contract_address": "0x81d5791e65e0db42687e2caf205f14a5e550c2af",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25427/large/UNC-logo-200.png?1651737772"
+},
+{
+  "name": "Gravis Finance Token",
+  "symbol": "GRVS",
+  "contract_address": "0x190cec0657a02e9eab1c1df5d59f9139131cf539",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25429/large/19788.png?1651738373"
+},
+{
+  "name": "oxfinance",
+  "symbol": "OXFI",
+  "contract_address": "0x93c169b9a0bf3478c9912d45228093ea339c00a3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25435/large/oxfi-logo200.png?1651740052"
+},
+{
+  "name": "Rocket Global Coin",
+  "symbol": "RCKC",
+  "contract_address": "0x7658604d32a0e60d08dd77a60413897e5cefd51f",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25436/large/Rocket-Global-Logo.png?1651740249"
+},
+{
+  "name": "Pesabase",
+  "symbol": "PESA",
+  "contract_address": "0x4adc604a0261e3d340745533964fff6bb130f3c3",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25437/large/Pesabase-logo-200x200.png?1651741561"
+},
+{
+  "name": "Stream",
+  "symbol": "STRM",
+  "contract_address": "0xc598275452fa319d75ee5f176fd3b8384925b425",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25438/large/17464.png?1651743438"
+},
+{
+  "name": "Ellipsis X",
+  "symbol": "EPX",
+  "contract_address": "0xaf41054c1487b0e5e2b9250c0332ecbce6ce9d71",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25444/large/ellipsis-light_%281%29.png?1651786591"
+},
+{
+  "name": "Sensi",
+  "symbol": "SENSI",
+  "contract_address": "0x63e77cf206801782239d4f126cfa22b517fb4edb",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25449/large/xdirLdlX_400x400.png?1651802649"
+},
+{
+  "name": "BOHR",
+  "symbol": "BR",
+  "contract_address": "0x7be9e596896b64c88e39b7e88f8dcedda79845c0",
+  "decimals": 6,
+  "logo_url": "https://assets.coingecko.com/coins/images/25451/large/jMTfKKWx_400x400.jpg?1651803437"
+},
+{
+  "name": "Neuralink",
+  "symbol": "neuralink",
+  "contract_address": "0xc7a081c50076e0e3d9c76bea8ea948e2a6c11017",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25455/large/n.png?1651815317"
+},
+{
+  "name": "Renewable Energy Token",
+  "symbol": "RET",
+  "contract_address": "0x10b9dd394467f2cfbc769e07e88dc7e2c41b0965",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25457/large/LOGO.png?1651815990"
+},
+{
+  "name": "Kingdom Swap 2.0",
+  "symbol": "KS2",
+  "contract_address": "0x4e7181434f6fc45ca4a7fc88a5c0201cd781ace7",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25458/large/KS.jpeg?1651820846"
+},
+{
+  "name": "Petoverse",
+  "symbol": "PETO",
+  "contract_address": "0xe327ed2037f133cda9f56171b68b6b7b4dfa6175",
+  "decimals": 5,
+  "logo_url": "https://assets.coingecko.com/coins/images/25459/large/7WMDBHl.png?1651821818"
+},
+{
+  "name": "Krypton DAO",
+  "symbol": "KRD",
+  "contract_address": "0xb020805e0bc7f0e353d1343d67a239f417d57bbf",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25467/large/krd.png?1651915442"
+},
+{
+  "name": "LetCoinShop",
+  "symbol": "LCS",
+  "contract_address": "0x6641fa061a7d0b8955d945b9c981e7ff296812fa",
+  "decimals": 8,
+  "logo_url": "https://assets.coingecko.com/coins/images/25468/large/lcs.png?1651916023"
+},
+{
+  "name": "Sleep Future",
+  "symbol": "SLEEPEE",
+  "contract_address": "0x80cd73badb406ea36b9a7cdeb8df06aefa7e12d9",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25469/large/sleepee.png?1651916574"
+},
+{
+  "name": "BelecX Token",
+  "symbol": "BEX",
+  "contract_address": "0x3ee08275b513f3085231ccc85de4c386fcc1f18b",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25470/large/bex.png?1651916924"
+},
+{
+  "name": "Ezillion",
+  "symbol": "EZI",
+  "contract_address": "0xca0c1c12466a57b26850b05a0ba2fb39f9763a0c",
+  "decimals": 9,
+  "logo_url": "https://assets.coingecko.com/coins/images/25472/large/ezi.jpg?1652004435"
+},
+{
+  "name": "BITLIVE",
+  "symbol": "BLT",
+  "contract_address": "0x449aed32c1685dbeca28d1ae45462b6156a6096d",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25474/large/blt.png?1652006325"
+},
+{
+  "name": "DCAP",
+  "symbol": "$DCAP",
+  "contract_address": "0x7ce910a8e811be8cda9a862f799878a96d276e7c",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25478/large/dcap.png?1652007843"
+},
+{
+  "name": "STAY",
+  "symbol": "STAY",
+  "contract_address": "0x127415d59e508c70a3990175c8267eb9c49b84fc",
+  "decimals": 18,
+  "logo_url": "https://assets.coingecko.com/coins/images/25479/large/stay.png?1652008638"
+},
+    {
   "name": "Joltify Coin",
   "symbol": "JOLT",
   "contract_address": "0x7db21353a0c4659b6a9a0519066aa8d52639dfa5",
