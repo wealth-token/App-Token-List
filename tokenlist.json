@@ -25143,6 +25143,13 @@
       "contract_address": "0xfebc87c6ff184B1AD2D2081eCd5d8Fb18571bD24",
       "decimals": 9,
       "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xfebc87c6ff184B1AD2D2081eCd5d8Fb18571bD24/logo.png"
+    },
+    {
+      "name": "Monetary Dollar",
+      "symbol": "MD",
+      "contract_address": "0xB58C2Fe8273386C2a3393c437573f685Cbe9088B",
+      "decimals": 18,
+      "logo_url": "https://raw.githubusercontent.com/wealth-token/App-Token-List/master/assets/0xB58C2Fe8273386C2a3393c437573f685Cbe9088B/logo.png"
     }
   ]
 }
