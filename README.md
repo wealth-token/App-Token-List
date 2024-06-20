@@ -1,14 +1,16 @@
 # Wealth Bear Token List
 ## Overview
-<p><img src="https://wealthbear.app/assets/img/github-header.png"></p>
+<p><img src="https://raw.githubusercontent.com/wealth-token/App-Token-List/master/wealth-bear-overview.png"></p>
 
 The Wealth Bear Token List is a list of Binance Smart Chain tokens that are available in the wallet app.
 
 ## How to add your token
 
+Adding A Token - There is a flat fee of 0.1 BNB to a BSC token to our wallet. We will announce each token added to our community. Connect with us on telegram to get added: https://t.me/wealthbeartoken
+
 ### Quick starter
 
-**Adding an BEP20 token checklist**:
+**Adding an BEP20 token checklist for devs**:
 - [ ] Fork the App-Token-List repository.
 - [ ] Create a folder and make the name equivalent to the token contract address in checksum format `assets/<token_contract_address>/`.
 - [ ] *** MAKE SURE THE FOLDER NAME IS IN CHECKSUM FORMAT *** https://ethsum.netlify.app/ .
